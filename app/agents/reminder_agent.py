@@ -23,6 +23,13 @@ class LeaveReminderAgent:
         reminders = []
 
 
+        # Get reminder threshold from company policy
+        unused_leave_threshold = policy.get(
+            "unused_leave_threshold",
+            15
+        )
+
+
         for employee in employees:
 
 
@@ -37,25 +44,33 @@ class LeaveReminderAgent:
             reasons = []
 
 
-            # Check unused leave balance
-            if leave_balance >= 15:
+            confidence = 0
+
+
+
+            # Analyze unused leave balance
+            if leave_balance >= unused_leave_threshold:
 
                 reasons.append(
                     f"You have {leave_balance} unused leave days"
                 )
 
+                confidence += 0.5
 
 
-            # Check leave usage history
+
+            # Analyze leave history
             if not history:
 
                 reasons.append(
                     "You have not taken any recorded leave yet"
                 )
 
+                confidence += 0.3
 
 
-            elif len(history) > 0:
+
+            else:
 
                 total_taken = sum(
                     record["days_taken"]
@@ -69,8 +84,11 @@ class LeaveReminderAgent:
                         "You have taken very little leave this cycle"
                     )
 
+                    confidence += 0.2
 
 
+
+            # Decide whether action is needed
             if reasons:
 
 
@@ -83,11 +101,19 @@ class LeaveReminderAgent:
                 )
 
 
+
                 reminder = {
 
                     "employee_id": employee["id"],
 
                     "employee": employee["name"],
+
+                    "action": "SEND_REMINDER",
+
+                    "confidence": round(
+                        confidence,
+                        2
+                    ),
 
                     "message": message,
 
@@ -97,6 +123,7 @@ class LeaveReminderAgent:
 
 
 
+                # Send notification
                 self.notification.send_notification(
                     employee["name"],
                     message
@@ -106,6 +133,7 @@ class LeaveReminderAgent:
                 reminders.append(
                     reminder
                 )
+
 
 
         return reminders
