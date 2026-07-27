@@ -29,7 +29,7 @@ scheduler = BackgroundScheduler()
 
 scheduler.add_job(
     run_leave_reminder,
-    "cron",
+    "cron", 
     day="last",
     hour=9
 )
