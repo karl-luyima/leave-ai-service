@@ -1,0 +1,1052 @@
+[
+    {
+        "request_id": 1,
+        "employee_id": 1065,
+        "requested_days": 5,
+        "reason": "Medical",
+        "status": "Approved"
+    },
+    {
+        "request_id": 2,
+        "employee_id": 1066,
+        "requested_days": 5,
+        "reason": "Family event",
+        "status": "Pending"
+    },
+    {
+        "request_id": 3,
+        "employee_id": 1027,
+        "requested_days": 5,
+        "reason": "Family event",
+        "status": "Pending"
+    },
+    {
+        "request_id": 4,
+        "employee_id": 1037,
+        "requested_days": 8,
+        "reason": "Personal",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 5,
+        "employee_id": 1029,
+        "requested_days": 4,
+        "reason": "Medical",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 6,
+        "employee_id": 1043,
+        "requested_days": 10,
+        "reason": "Personal",
+        "status": "Pending"
+    },
+    {
+        "request_id": 7,
+        "employee_id": 1051,
+        "requested_days": 4,
+        "reason": "Family event",
+        "status": "Pending"
+    },
+    {
+        "request_id": 8,
+        "employee_id": 1073,
+        "requested_days": 12,
+        "reason": "Family event",
+        "status": "Pending"
+    },
+    {
+        "request_id": 9,
+        "employee_id": 1083,
+        "requested_days": 1,
+        "reason": "Family event",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 10,
+        "employee_id": 1052,
+        "requested_days": 6,
+        "reason": "Vacation",
+        "status": "Pending"
+    },
+    {
+        "request_id": 11,
+        "employee_id": 1013,
+        "requested_days": 4,
+        "reason": "Medical",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 12,
+        "employee_id": 1019,
+        "requested_days": 3,
+        "reason": "Medical",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 13,
+        "employee_id": 1004,
+        "requested_days": 12,
+        "reason": "Personal",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 14,
+        "employee_id": 1051,
+        "requested_days": 2,
+        "reason": "Medical",
+        "status": "Approved"
+    },
+    {
+        "request_id": 15,
+        "employee_id": 1044,
+        "requested_days": 11,
+        "reason": "Family event",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 16,
+        "employee_id": 1038,
+        "requested_days": 1,
+        "reason": "Medical",
+        "status": "Approved"
+    },
+    {
+        "request_id": 17,
+        "employee_id": 1022,
+        "requested_days": 6,
+        "reason": "Personal",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 18,
+        "employee_id": 1043,
+        "requested_days": 15,
+        "reason": "Medical",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 19,
+        "employee_id": 1052,
+        "requested_days": 14,
+        "reason": "Vacation",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 20,
+        "employee_id": 1048,
+        "requested_days": 4,
+        "reason": "Personal",
+        "status": "Pending"
+    },
+    {
+        "request_id": 21,
+        "employee_id": 1020,
+        "requested_days": 12,
+        "reason": "Personal",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 22,
+        "employee_id": 1068,
+        "requested_days": 1,
+        "reason": "Vacation",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 23,
+        "employee_id": 1095,
+        "requested_days": 8,
+        "reason": "Personal",
+        "status": "Pending"
+    },
+    {
+        "request_id": 24,
+        "employee_id": 1026,
+        "requested_days": 1,
+        "reason": "Medical",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 25,
+        "employee_id": 1095,
+        "requested_days": 10,
+        "reason": "Family event",
+        "status": "Pending"
+    },
+    {
+        "request_id": 26,
+        "employee_id": 1098,
+        "requested_days": 10,
+        "reason": "Vacation",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 27,
+        "employee_id": 1022,
+        "requested_days": 8,
+        "reason": "Personal",
+        "status": "Approved"
+    },
+    {
+        "request_id": 28,
+        "employee_id": 1080,
+        "requested_days": 15,
+        "reason": "Personal",
+        "status": "Approved"
+    },
+    {
+        "request_id": 29,
+        "employee_id": 1063,
+        "requested_days": 6,
+        "reason": "Vacation",
+        "status": "Approved"
+    },
+    {
+        "request_id": 30,
+        "employee_id": 1025,
+        "requested_days": 9,
+        "reason": "Vacation",
+        "status": "Approved"
+    },
+    {
+        "request_id": 31,
+        "employee_id": 1100,
+        "requested_days": 6,
+        "reason": "Medical",
+        "status": "Approved"
+    },
+    {
+        "request_id": 32,
+        "employee_id": 1052,
+        "requested_days": 6,
+        "reason": "Family event",
+        "status": "Pending"
+    },
+    {
+        "request_id": 33,
+        "employee_id": 1043,
+        "requested_days": 15,
+        "reason": "Family event",
+        "status": "Approved"
+    },
+    {
+        "request_id": 34,
+        "employee_id": 1057,
+        "requested_days": 3,
+        "reason": "Vacation",
+        "status": "Approved"
+    },
+    {
+        "request_id": 35,
+        "employee_id": 1075,
+        "requested_days": 3,
+        "reason": "Vacation",
+        "status": "Approved"
+    },
+    {
+        "request_id": 36,
+        "employee_id": 1052,
+        "requested_days": 10,
+        "reason": "Medical",
+        "status": "Approved"
+    },
+    {
+        "request_id": 37,
+        "employee_id": 1049,
+        "requested_days": 8,
+        "reason": "Vacation",
+        "status": "Approved"
+    },
+    {
+        "request_id": 38,
+        "employee_id": 1017,
+        "requested_days": 9,
+        "reason": "Personal",
+        "status": "Pending"
+    },
+    {
+        "request_id": 39,
+        "employee_id": 1034,
+        "requested_days": 4,
+        "reason": "Vacation",
+        "status": "Approved"
+    },
+    {
+        "request_id": 40,
+        "employee_id": 1097,
+        "requested_days": 1,
+        "reason": "Family event",
+        "status": "Pending"
+    },
+    {
+        "request_id": 41,
+        "employee_id": 1030,
+        "requested_days": 12,
+        "reason": "Medical",
+        "status": "Pending"
+    },
+    {
+        "request_id": 42,
+        "employee_id": 1081,
+        "requested_days": 14,
+        "reason": "Vacation",
+        "status": "Pending"
+    },
+    {
+        "request_id": 43,
+        "employee_id": 1004,
+        "requested_days": 3,
+        "reason": "Medical",
+        "status": "Approved"
+    },
+    {
+        "request_id": 44,
+        "employee_id": 1099,
+        "requested_days": 11,
+        "reason": "Vacation",
+        "status": "Pending"
+    },
+    {
+        "request_id": 45,
+        "employee_id": 1081,
+        "requested_days": 13,
+        "reason": "Medical",
+        "status": "Approved"
+    },
+    {
+        "request_id": 46,
+        "employee_id": 1055,
+        "requested_days": 1,
+        "reason": "Personal",
+        "status": "Pending"
+    },
+    {
+        "request_id": 47,
+        "employee_id": 1092,
+        "requested_days": 15,
+        "reason": "Medical",
+        "status": "Approved"
+    },
+    {
+        "request_id": 48,
+        "employee_id": 1052,
+        "requested_days": 5,
+        "reason": "Family event",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 49,
+        "employee_id": 1094,
+        "requested_days": 6,
+        "reason": "Vacation",
+        "status": "Pending"
+    },
+    {
+        "request_id": 50,
+        "employee_id": 1059,
+        "requested_days": 4,
+        "reason": "Family event",
+        "status": "Pending"
+    },
+    {
+        "request_id": 51,
+        "employee_id": 1095,
+        "requested_days": 8,
+        "reason": "Personal",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 52,
+        "employee_id": 1018,
+        "requested_days": 13,
+        "reason": "Personal",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 53,
+        "employee_id": 1086,
+        "requested_days": 12,
+        "reason": "Medical",
+        "status": "Pending"
+    },
+    {
+        "request_id": 54,
+        "employee_id": 1094,
+        "requested_days": 7,
+        "reason": "Medical",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 55,
+        "employee_id": 1093,
+        "requested_days": 8,
+        "reason": "Medical",
+        "status": "Approved"
+    },
+    {
+        "request_id": 56,
+        "employee_id": 1067,
+        "requested_days": 15,
+        "reason": "Personal",
+        "status": "Approved"
+    },
+    {
+        "request_id": 57,
+        "employee_id": 1080,
+        "requested_days": 5,
+        "reason": "Family event",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 58,
+        "employee_id": 1041,
+        "requested_days": 14,
+        "reason": "Medical",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 59,
+        "employee_id": 1100,
+        "requested_days": 5,
+        "reason": "Vacation",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 60,
+        "employee_id": 1086,
+        "requested_days": 8,
+        "reason": "Medical",
+        "status": "Approved"
+    },
+    {
+        "request_id": 61,
+        "employee_id": 1023,
+        "requested_days": 11,
+        "reason": "Personal",
+        "status": "Approved"
+    },
+    {
+        "request_id": 62,
+        "employee_id": 1099,
+        "requested_days": 6,
+        "reason": "Family event",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 63,
+        "employee_id": 1031,
+        "requested_days": 10,
+        "reason": "Medical",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 64,
+        "employee_id": 1035,
+        "requested_days": 6,
+        "reason": "Vacation",
+        "status": "Approved"
+    },
+    {
+        "request_id": 65,
+        "employee_id": 1003,
+        "requested_days": 3,
+        "reason": "Family event",
+        "status": "Pending"
+    },
+    {
+        "request_id": 66,
+        "employee_id": 1035,
+        "requested_days": 4,
+        "reason": "Vacation",
+        "status": "Pending"
+    },
+    {
+        "request_id": 67,
+        "employee_id": 1012,
+        "requested_days": 2,
+        "reason": "Medical",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 68,
+        "employee_id": 1043,
+        "requested_days": 3,
+        "reason": "Family event",
+        "status": "Approved"
+    },
+    {
+        "request_id": 69,
+        "employee_id": 1009,
+        "requested_days": 8,
+        "reason": "Vacation",
+        "status": "Approved"
+    },
+    {
+        "request_id": 70,
+        "employee_id": 1001,
+        "requested_days": 5,
+        "reason": "Medical",
+        "status": "Pending"
+    },
+    {
+        "request_id": 71,
+        "employee_id": 1059,
+        "requested_days": 4,
+        "reason": "Personal",
+        "status": "Pending"
+    },
+    {
+        "request_id": 72,
+        "employee_id": 1014,
+        "requested_days": 2,
+        "reason": "Vacation",
+        "status": "Pending"
+    },
+    {
+        "request_id": 73,
+        "employee_id": 1019,
+        "requested_days": 5,
+        "reason": "Family event",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 74,
+        "employee_id": 1027,
+        "requested_days": 12,
+        "reason": "Family event",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 75,
+        "employee_id": 1043,
+        "requested_days": 12,
+        "reason": "Vacation",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 76,
+        "employee_id": 1040,
+        "requested_days": 8,
+        "reason": "Family event",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 77,
+        "employee_id": 1069,
+        "requested_days": 15,
+        "reason": "Medical",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 78,
+        "employee_id": 1033,
+        "requested_days": 11,
+        "reason": "Vacation",
+        "status": "Approved"
+    },
+    {
+        "request_id": 79,
+        "employee_id": 1068,
+        "requested_days": 7,
+        "reason": "Family event",
+        "status": "Pending"
+    },
+    {
+        "request_id": 80,
+        "employee_id": 1048,
+        "requested_days": 14,
+        "reason": "Vacation",
+        "status": "Approved"
+    },
+    {
+        "request_id": 81,
+        "employee_id": 1020,
+        "requested_days": 5,
+        "reason": "Family event",
+        "status": "Approved"
+    },
+    {
+        "request_id": 82,
+        "employee_id": 1077,
+        "requested_days": 12,
+        "reason": "Family event",
+        "status": "Pending"
+    },
+    {
+        "request_id": 83,
+        "employee_id": 1032,
+        "requested_days": 3,
+        "reason": "Family event",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 84,
+        "employee_id": 1053,
+        "requested_days": 5,
+        "reason": "Vacation",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 85,
+        "employee_id": 1044,
+        "requested_days": 6,
+        "reason": "Family event",
+        "status": "Pending"
+    },
+    {
+        "request_id": 86,
+        "employee_id": 1094,
+        "requested_days": 11,
+        "reason": "Medical",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 87,
+        "employee_id": 1026,
+        "requested_days": 5,
+        "reason": "Vacation",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 88,
+        "employee_id": 1013,
+        "requested_days": 1,
+        "reason": "Vacation",
+        "status": "Pending"
+    },
+    {
+        "request_id": 89,
+        "employee_id": 1051,
+        "requested_days": 7,
+        "reason": "Personal",
+        "status": "Pending"
+    },
+    {
+        "request_id": 90,
+        "employee_id": 1020,
+        "requested_days": 11,
+        "reason": "Family event",
+        "status": "Pending"
+    },
+    {
+        "request_id": 91,
+        "employee_id": 1009,
+        "requested_days": 14,
+        "reason": "Personal",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 92,
+        "employee_id": 1066,
+        "requested_days": 1,
+        "reason": "Medical",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 93,
+        "employee_id": 1055,
+        "requested_days": 9,
+        "reason": "Vacation",
+        "status": "Pending"
+    },
+    {
+        "request_id": 94,
+        "employee_id": 1045,
+        "requested_days": 10,
+        "reason": "Medical",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 95,
+        "employee_id": 1078,
+        "requested_days": 10,
+        "reason": "Vacation",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 96,
+        "employee_id": 1045,
+        "requested_days": 6,
+        "reason": "Family event",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 97,
+        "employee_id": 1007,
+        "requested_days": 5,
+        "reason": "Personal",
+        "status": "Approved"
+    },
+    {
+        "request_id": 98,
+        "employee_id": 1046,
+        "requested_days": 5,
+        "reason": "Family event",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 99,
+        "employee_id": 1014,
+        "requested_days": 13,
+        "reason": "Vacation",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 100,
+        "employee_id": 1013,
+        "requested_days": 7,
+        "reason": "Family event",
+        "status": "Pending"
+    },
+    {
+        "request_id": 101,
+        "employee_id": 1090,
+        "requested_days": 12,
+        "reason": "Family event",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 102,
+        "employee_id": 1001,
+        "requested_days": 6,
+        "reason": "Vacation",
+        "status": "Approved"
+    },
+    {
+        "request_id": 103,
+        "employee_id": 1082,
+        "requested_days": 7,
+        "reason": "Family event",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 104,
+        "employee_id": 1092,
+        "requested_days": 10,
+        "reason": "Personal",
+        "status": "Pending"
+    },
+    {
+        "request_id": 105,
+        "employee_id": 1044,
+        "requested_days": 15,
+        "reason": "Vacation",
+        "status": "Approved"
+    },
+    {
+        "request_id": 106,
+        "employee_id": 1073,
+        "requested_days": 13,
+        "reason": "Medical",
+        "status": "Approved"
+    },
+    {
+        "request_id": 107,
+        "employee_id": 1095,
+        "requested_days": 12,
+        "reason": "Family event",
+        "status": "Pending"
+    },
+    {
+        "request_id": 108,
+        "employee_id": 1098,
+        "requested_days": 1,
+        "reason": "Personal",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 109,
+        "employee_id": 1097,
+        "requested_days": 9,
+        "reason": "Vacation",
+        "status": "Approved"
+    },
+    {
+        "request_id": 110,
+        "employee_id": 1089,
+        "requested_days": 15,
+        "reason": "Personal",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 111,
+        "employee_id": 1094,
+        "requested_days": 1,
+        "reason": "Medical",
+        "status": "Approved"
+    },
+    {
+        "request_id": 112,
+        "employee_id": 1065,
+        "requested_days": 2,
+        "reason": "Personal",
+        "status": "Pending"
+    },
+    {
+        "request_id": 113,
+        "employee_id": 1050,
+        "requested_days": 9,
+        "reason": "Personal",
+        "status": "Approved"
+    },
+    {
+        "request_id": 114,
+        "employee_id": 1017,
+        "requested_days": 1,
+        "reason": "Medical",
+        "status": "Pending"
+    },
+    {
+        "request_id": 115,
+        "employee_id": 1017,
+        "requested_days": 5,
+        "reason": "Vacation",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 116,
+        "employee_id": 1004,
+        "requested_days": 12,
+        "reason": "Medical",
+        "status": "Approved"
+    },
+    {
+        "request_id": 117,
+        "employee_id": 1026,
+        "requested_days": 5,
+        "reason": "Family event",
+        "status": "Approved"
+    },
+    {
+        "request_id": 118,
+        "employee_id": 1038,
+        "requested_days": 3,
+        "reason": "Family event",
+        "status": "Approved"
+    },
+    {
+        "request_id": 119,
+        "employee_id": 1067,
+        "requested_days": 3,
+        "reason": "Personal",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 120,
+        "employee_id": 1094,
+        "requested_days": 2,
+        "reason": "Family event",
+        "status": "Pending"
+    },
+    {
+        "request_id": 121,
+        "employee_id": 1007,
+        "requested_days": 12,
+        "reason": "Family event",
+        "status": "Pending"
+    },
+    {
+        "request_id": 122,
+        "employee_id": 1080,
+        "requested_days": 4,
+        "reason": "Vacation",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 123,
+        "employee_id": 1069,
+        "requested_days": 6,
+        "reason": "Personal",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 124,
+        "employee_id": 1076,
+        "requested_days": 8,
+        "reason": "Family event",
+        "status": "Pending"
+    },
+    {
+        "request_id": 125,
+        "employee_id": 1053,
+        "requested_days": 5,
+        "reason": "Personal",
+        "status": "Approved"
+    },
+    {
+        "request_id": 126,
+        "employee_id": 1024,
+        "requested_days": 3,
+        "reason": "Personal",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 127,
+        "employee_id": 1037,
+        "requested_days": 11,
+        "reason": "Medical",
+        "status": "Pending"
+    },
+    {
+        "request_id": 128,
+        "employee_id": 1078,
+        "requested_days": 3,
+        "reason": "Family event",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 129,
+        "employee_id": 1035,
+        "requested_days": 14,
+        "reason": "Personal",
+        "status": "Approved"
+    },
+    {
+        "request_id": 130,
+        "employee_id": 1069,
+        "requested_days": 3,
+        "reason": "Vacation",
+        "status": "Approved"
+    },
+    {
+        "request_id": 131,
+        "employee_id": 1079,
+        "requested_days": 13,
+        "reason": "Vacation",
+        "status": "Approved"
+    },
+    {
+        "request_id": 132,
+        "employee_id": 1054,
+        "requested_days": 11,
+        "reason": "Vacation",
+        "status": "Approved"
+    },
+    {
+        "request_id": 133,
+        "employee_id": 1060,
+        "requested_days": 10,
+        "reason": "Personal",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 134,
+        "employee_id": 1055,
+        "requested_days": 1,
+        "reason": "Vacation",
+        "status": "Pending"
+    },
+    {
+        "request_id": 135,
+        "employee_id": 1065,
+        "requested_days": 1,
+        "reason": "Vacation",
+        "status": "Pending"
+    },
+    {
+        "request_id": 136,
+        "employee_id": 1079,
+        "requested_days": 1,
+        "reason": "Personal",
+        "status": "Approved"
+    },
+    {
+        "request_id": 137,
+        "employee_id": 1014,
+        "requested_days": 3,
+        "reason": "Personal",
+        "status": "Approved"
+    },
+    {
+        "request_id": 138,
+        "employee_id": 1001,
+        "requested_days": 12,
+        "reason": "Personal",
+        "status": "Pending"
+    },
+    {
+        "request_id": 139,
+        "employee_id": 1037,
+        "requested_days": 5,
+        "reason": "Family event",
+        "status": "Approved"
+    },
+    {
+        "request_id": 140,
+        "employee_id": 1094,
+        "requested_days": 5,
+        "reason": "Family event",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 141,
+        "employee_id": 1036,
+        "requested_days": 14,
+        "reason": "Family event",
+        "status": "Pending"
+    },
+    {
+        "request_id": 142,
+        "employee_id": 1078,
+        "requested_days": 11,
+        "reason": "Family event",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 143,
+        "employee_id": 1014,
+        "requested_days": 15,
+        "reason": "Medical",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 144,
+        "employee_id": 1045,
+        "requested_days": 8,
+        "reason": "Medical",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 145,
+        "employee_id": 1063,
+        "requested_days": 2,
+        "reason": "Family event",
+        "status": "Approved"
+    },
+    {
+        "request_id": 146,
+        "employee_id": 1024,
+        "requested_days": 7,
+        "reason": "Vacation",
+        "status": "Approved"
+    },
+    {
+        "request_id": 147,
+        "employee_id": 1070,
+        "requested_days": 15,
+        "reason": "Vacation",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 148,
+        "employee_id": 1056,
+        "requested_days": 15,
+        "reason": "Vacation",
+        "status": "Rejected"
+    },
+    {
+        "request_id": 149,
+        "employee_id": 1030,
+        "requested_days": 2,
+        "reason": "Family event",
+        "status": "Approved"
+    },
+    {
+        "request_id": 150,
+        "employee_id": 1058,
+        "requested_days": 9,
+        "reason": "Medical",
+        "status": "Pending"
+    }
+]

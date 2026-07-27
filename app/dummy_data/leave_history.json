@@ -1,0 +1,8002 @@
+[
+    {
+        "leave_id": 1,
+        "employee_id": 1032,
+        "leave_type": "Study",
+        "start_date": "2024-04-04",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 2,
+        "employee_id": 1030,
+        "leave_type": "Sick",
+        "start_date": "2026-04-05",
+        "days": 8,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 3,
+        "employee_id": 1059,
+        "leave_type": "Emergency",
+        "start_date": "2025-08-14",
+        "days": 8,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 4,
+        "employee_id": 1073,
+        "leave_type": "Sick",
+        "start_date": "2025-08-05",
+        "days": 8,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 5,
+        "employee_id": 1010,
+        "leave_type": "Study",
+        "start_date": "2025-08-30",
+        "days": 3,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 6,
+        "employee_id": 1059,
+        "leave_type": "Annual",
+        "start_date": "2025-11-18",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 7,
+        "employee_id": 1034,
+        "leave_type": "Emergency",
+        "start_date": "2024-06-12",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 8,
+        "employee_id": 1038,
+        "leave_type": "Study",
+        "start_date": "2025-08-28",
+        "days": 3,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 9,
+        "employee_id": 1073,
+        "leave_type": "Sick",
+        "start_date": "2025-06-25",
+        "days": 7,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 10,
+        "employee_id": 1085,
+        "leave_type": "Study",
+        "start_date": "2025-12-19",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 11,
+        "employee_id": 1016,
+        "leave_type": "Emergency",
+        "start_date": "2024-03-12",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 12,
+        "employee_id": 1024,
+        "leave_type": "Sick",
+        "start_date": "2024-09-17",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 13,
+        "employee_id": 1097,
+        "leave_type": "Maternity",
+        "start_date": "2024-06-05",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 14,
+        "employee_id": 1026,
+        "leave_type": "Emergency",
+        "start_date": "2025-04-01",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 15,
+        "employee_id": 1018,
+        "leave_type": "Maternity",
+        "start_date": "2024-11-29",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 16,
+        "employee_id": 1046,
+        "leave_type": "Emergency",
+        "start_date": "2025-10-05",
+        "days": 7,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 17,
+        "employee_id": 1084,
+        "leave_type": "Emergency",
+        "start_date": "2024-02-22",
+        "days": 3,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 18,
+        "employee_id": 1060,
+        "leave_type": "Maternity",
+        "start_date": "2025-10-11",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 19,
+        "employee_id": 1076,
+        "leave_type": "Annual",
+        "start_date": "2024-01-15",
+        "days": 8,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 20,
+        "employee_id": 1010,
+        "leave_type": "Sick",
+        "start_date": "2026-07-09",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 21,
+        "employee_id": 1020,
+        "leave_type": "Study",
+        "start_date": "2025-11-27",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 22,
+        "employee_id": 1045,
+        "leave_type": "Emergency",
+        "start_date": "2026-04-22",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 23,
+        "employee_id": 1019,
+        "leave_type": "Maternity",
+        "start_date": "2025-11-19",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 24,
+        "employee_id": 1078,
+        "leave_type": "Sick",
+        "start_date": "2025-12-03",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 25,
+        "employee_id": 1077,
+        "leave_type": "Maternity",
+        "start_date": "2024-08-23",
+        "days": 1,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 26,
+        "employee_id": 1021,
+        "leave_type": "Study",
+        "start_date": "2026-04-08",
+        "days": 8,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 27,
+        "employee_id": 1094,
+        "leave_type": "Study",
+        "start_date": "2026-02-16",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 28,
+        "employee_id": 1034,
+        "leave_type": "Maternity",
+        "start_date": "2025-11-26",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 29,
+        "employee_id": 1021,
+        "leave_type": "Emergency",
+        "start_date": "2025-07-01",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 30,
+        "employee_id": 1004,
+        "leave_type": "Annual",
+        "start_date": "2026-05-23",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 31,
+        "employee_id": 1047,
+        "leave_type": "Maternity",
+        "start_date": "2025-08-31",
+        "days": 7,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 32,
+        "employee_id": 1097,
+        "leave_type": "Annual",
+        "start_date": "2025-08-23",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 33,
+        "employee_id": 1009,
+        "leave_type": "Sick",
+        "start_date": "2026-05-10",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 34,
+        "employee_id": 1084,
+        "leave_type": "Emergency",
+        "start_date": "2024-02-13",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 35,
+        "employee_id": 1044,
+        "leave_type": "Maternity",
+        "start_date": "2025-12-26",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 36,
+        "employee_id": 1042,
+        "leave_type": "Emergency",
+        "start_date": "2024-08-25",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 37,
+        "employee_id": 1035,
+        "leave_type": "Sick",
+        "start_date": "2026-03-09",
+        "days": 10,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 38,
+        "employee_id": 1092,
+        "leave_type": "Study",
+        "start_date": "2025-11-10",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 39,
+        "employee_id": 1015,
+        "leave_type": "Annual",
+        "start_date": "2026-04-28",
+        "days": 10,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 40,
+        "employee_id": 1038,
+        "leave_type": "Sick",
+        "start_date": "2025-04-22",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 41,
+        "employee_id": 1044,
+        "leave_type": "Study",
+        "start_date": "2025-12-19",
+        "days": 7,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 42,
+        "employee_id": 1084,
+        "leave_type": "Study",
+        "start_date": "2024-05-30",
+        "days": 7,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 43,
+        "employee_id": 1037,
+        "leave_type": "Maternity",
+        "start_date": "2024-02-24",
+        "days": 8,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 44,
+        "employee_id": 1064,
+        "leave_type": "Maternity",
+        "start_date": "2024-08-19",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 45,
+        "employee_id": 1088,
+        "leave_type": "Annual",
+        "start_date": "2025-04-08",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 46,
+        "employee_id": 1080,
+        "leave_type": "Annual",
+        "start_date": "2025-03-21",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 47,
+        "employee_id": 1081,
+        "leave_type": "Sick",
+        "start_date": "2025-04-12",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 48,
+        "employee_id": 1004,
+        "leave_type": "Sick",
+        "start_date": "2024-04-06",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 49,
+        "employee_id": 1070,
+        "leave_type": "Emergency",
+        "start_date": "2024-12-12",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 50,
+        "employee_id": 1086,
+        "leave_type": "Sick",
+        "start_date": "2025-08-05",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 51,
+        "employee_id": 1096,
+        "leave_type": "Annual",
+        "start_date": "2026-06-30",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 52,
+        "employee_id": 1061,
+        "leave_type": "Annual",
+        "start_date": "2025-08-08",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 53,
+        "employee_id": 1082,
+        "leave_type": "Emergency",
+        "start_date": "2026-01-23",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 54,
+        "employee_id": 1024,
+        "leave_type": "Sick",
+        "start_date": "2025-06-24",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 55,
+        "employee_id": 1050,
+        "leave_type": "Study",
+        "start_date": "2024-11-13",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 56,
+        "employee_id": 1071,
+        "leave_type": "Annual",
+        "start_date": "2024-04-20",
+        "days": 8,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 57,
+        "employee_id": 1100,
+        "leave_type": "Study",
+        "start_date": "2024-08-13",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 58,
+        "employee_id": 1005,
+        "leave_type": "Study",
+        "start_date": "2025-06-02",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 59,
+        "employee_id": 1100,
+        "leave_type": "Annual",
+        "start_date": "2024-10-26",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 60,
+        "employee_id": 1063,
+        "leave_type": "Maternity",
+        "start_date": "2025-04-26",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 61,
+        "employee_id": 1010,
+        "leave_type": "Study",
+        "start_date": "2024-09-23",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 62,
+        "employee_id": 1003,
+        "leave_type": "Maternity",
+        "start_date": "2025-08-21",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 63,
+        "employee_id": 1021,
+        "leave_type": "Annual",
+        "start_date": "2024-09-28",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 64,
+        "employee_id": 1087,
+        "leave_type": "Emergency",
+        "start_date": "2025-09-08",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 65,
+        "employee_id": 1033,
+        "leave_type": "Emergency",
+        "start_date": "2025-11-26",
+        "days": 3,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 66,
+        "employee_id": 1034,
+        "leave_type": "Annual",
+        "start_date": "2026-06-27",
+        "days": 7,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 67,
+        "employee_id": 1075,
+        "leave_type": "Annual",
+        "start_date": "2025-11-04",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 68,
+        "employee_id": 1095,
+        "leave_type": "Maternity",
+        "start_date": "2024-05-20",
+        "days": 8,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 69,
+        "employee_id": 1077,
+        "leave_type": "Study",
+        "start_date": "2025-05-04",
+        "days": 5,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 70,
+        "employee_id": 1083,
+        "leave_type": "Study",
+        "start_date": "2024-06-30",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 71,
+        "employee_id": 1100,
+        "leave_type": "Annual",
+        "start_date": "2024-02-22",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 72,
+        "employee_id": 1057,
+        "leave_type": "Study",
+        "start_date": "2024-04-11",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 73,
+        "employee_id": 1049,
+        "leave_type": "Emergency",
+        "start_date": "2025-11-19",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 74,
+        "employee_id": 1099,
+        "leave_type": "Sick",
+        "start_date": "2024-06-19",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 75,
+        "employee_id": 1023,
+        "leave_type": "Maternity",
+        "start_date": "2024-09-08",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 76,
+        "employee_id": 1045,
+        "leave_type": "Sick",
+        "start_date": "2024-09-14",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 77,
+        "employee_id": 1071,
+        "leave_type": "Emergency",
+        "start_date": "2026-01-10",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 78,
+        "employee_id": 1014,
+        "leave_type": "Sick",
+        "start_date": "2024-05-13",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 79,
+        "employee_id": 1084,
+        "leave_type": "Study",
+        "start_date": "2024-02-28",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 80,
+        "employee_id": 1047,
+        "leave_type": "Emergency",
+        "start_date": "2026-07-23",
+        "days": 3,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 81,
+        "employee_id": 1074,
+        "leave_type": "Annual",
+        "start_date": "2025-03-03",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 82,
+        "employee_id": 1058,
+        "leave_type": "Annual",
+        "start_date": "2025-05-16",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 83,
+        "employee_id": 1077,
+        "leave_type": "Maternity",
+        "start_date": "2026-02-01",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 84,
+        "employee_id": 1057,
+        "leave_type": "Maternity",
+        "start_date": "2024-05-02",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 85,
+        "employee_id": 1018,
+        "leave_type": "Annual",
+        "start_date": "2025-10-20",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 86,
+        "employee_id": 1044,
+        "leave_type": "Sick",
+        "start_date": "2026-02-22",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 87,
+        "employee_id": 1069,
+        "leave_type": "Study",
+        "start_date": "2025-08-11",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 88,
+        "employee_id": 1063,
+        "leave_type": "Study",
+        "start_date": "2025-09-13",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 89,
+        "employee_id": 1086,
+        "leave_type": "Sick",
+        "start_date": "2026-03-07",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 90,
+        "employee_id": 1053,
+        "leave_type": "Maternity",
+        "start_date": "2026-01-04",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 91,
+        "employee_id": 1061,
+        "leave_type": "Study",
+        "start_date": "2026-05-26",
+        "days": 1,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 92,
+        "employee_id": 1033,
+        "leave_type": "Sick",
+        "start_date": "2024-09-27",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 93,
+        "employee_id": 1082,
+        "leave_type": "Study",
+        "start_date": "2025-03-08",
+        "days": 3,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 94,
+        "employee_id": 1023,
+        "leave_type": "Emergency",
+        "start_date": "2025-04-13",
+        "days": 5,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 95,
+        "employee_id": 1067,
+        "leave_type": "Emergency",
+        "start_date": "2025-07-18",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 96,
+        "employee_id": 1041,
+        "leave_type": "Maternity",
+        "start_date": "2026-02-09",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 97,
+        "employee_id": 1013,
+        "leave_type": "Annual",
+        "start_date": "2026-06-19",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 98,
+        "employee_id": 1002,
+        "leave_type": "Annual",
+        "start_date": "2024-08-31",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 99,
+        "employee_id": 1019,
+        "leave_type": "Annual",
+        "start_date": "2026-01-22",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 100,
+        "employee_id": 1092,
+        "leave_type": "Study",
+        "start_date": "2025-09-27",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 101,
+        "employee_id": 1088,
+        "leave_type": "Annual",
+        "start_date": "2024-03-25",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 102,
+        "employee_id": 1095,
+        "leave_type": "Annual",
+        "start_date": "2025-08-14",
+        "days": 8,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 103,
+        "employee_id": 1024,
+        "leave_type": "Sick",
+        "start_date": "2025-06-05",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 104,
+        "employee_id": 1065,
+        "leave_type": "Annual",
+        "start_date": "2026-01-13",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 105,
+        "employee_id": 1089,
+        "leave_type": "Emergency",
+        "start_date": "2024-10-11",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 106,
+        "employee_id": 1054,
+        "leave_type": "Annual",
+        "start_date": "2025-05-02",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 107,
+        "employee_id": 1063,
+        "leave_type": "Study",
+        "start_date": "2025-02-10",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 108,
+        "employee_id": 1061,
+        "leave_type": "Maternity",
+        "start_date": "2026-02-27",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 109,
+        "employee_id": 1030,
+        "leave_type": "Study",
+        "start_date": "2026-03-15",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 110,
+        "employee_id": 1047,
+        "leave_type": "Study",
+        "start_date": "2024-07-14",
+        "days": 5,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 111,
+        "employee_id": 1015,
+        "leave_type": "Emergency",
+        "start_date": "2024-01-16",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 112,
+        "employee_id": 1015,
+        "leave_type": "Annual",
+        "start_date": "2026-03-14",
+        "days": 5,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 113,
+        "employee_id": 1019,
+        "leave_type": "Emergency",
+        "start_date": "2024-04-15",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 114,
+        "employee_id": 1016,
+        "leave_type": "Maternity",
+        "start_date": "2024-08-25",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 115,
+        "employee_id": 1073,
+        "leave_type": "Emergency",
+        "start_date": "2025-08-06",
+        "days": 7,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 116,
+        "employee_id": 1024,
+        "leave_type": "Annual",
+        "start_date": "2024-09-09",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 117,
+        "employee_id": 1099,
+        "leave_type": "Emergency",
+        "start_date": "2024-04-04",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 118,
+        "employee_id": 1005,
+        "leave_type": "Maternity",
+        "start_date": "2025-02-08",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 119,
+        "employee_id": 1005,
+        "leave_type": "Sick",
+        "start_date": "2026-03-02",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 120,
+        "employee_id": 1005,
+        "leave_type": "Emergency",
+        "start_date": "2025-06-18",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 121,
+        "employee_id": 1004,
+        "leave_type": "Sick",
+        "start_date": "2024-10-22",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 122,
+        "employee_id": 1020,
+        "leave_type": "Maternity",
+        "start_date": "2025-04-05",
+        "days": 3,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 123,
+        "employee_id": 1069,
+        "leave_type": "Sick",
+        "start_date": "2025-10-10",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 124,
+        "employee_id": 1047,
+        "leave_type": "Emergency",
+        "start_date": "2026-05-23",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 125,
+        "employee_id": 1094,
+        "leave_type": "Maternity",
+        "start_date": "2024-12-01",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 126,
+        "employee_id": 1023,
+        "leave_type": "Study",
+        "start_date": "2024-11-22",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 127,
+        "employee_id": 1028,
+        "leave_type": "Annual",
+        "start_date": "2024-05-07",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 128,
+        "employee_id": 1084,
+        "leave_type": "Maternity",
+        "start_date": "2024-01-11",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 129,
+        "employee_id": 1023,
+        "leave_type": "Annual",
+        "start_date": "2025-10-10",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 130,
+        "employee_id": 1050,
+        "leave_type": "Maternity",
+        "start_date": "2024-10-18",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 131,
+        "employee_id": 1081,
+        "leave_type": "Study",
+        "start_date": "2024-12-03",
+        "days": 10,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 132,
+        "employee_id": 1021,
+        "leave_type": "Sick",
+        "start_date": "2025-12-15",
+        "days": 8,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 133,
+        "employee_id": 1099,
+        "leave_type": "Study",
+        "start_date": "2024-01-03",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 134,
+        "employee_id": 1053,
+        "leave_type": "Emergency",
+        "start_date": "2025-08-16",
+        "days": 1,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 135,
+        "employee_id": 1093,
+        "leave_type": "Study",
+        "start_date": "2025-04-16",
+        "days": 3,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 136,
+        "employee_id": 1061,
+        "leave_type": "Annual",
+        "start_date": "2025-07-12",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 137,
+        "employee_id": 1019,
+        "leave_type": "Study",
+        "start_date": "2026-05-17",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 138,
+        "employee_id": 1094,
+        "leave_type": "Emergency",
+        "start_date": "2025-08-28",
+        "days": 10,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 139,
+        "employee_id": 1048,
+        "leave_type": "Emergency",
+        "start_date": "2025-09-12",
+        "days": 3,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 140,
+        "employee_id": 1021,
+        "leave_type": "Emergency",
+        "start_date": "2025-02-03",
+        "days": 8,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 141,
+        "employee_id": 1018,
+        "leave_type": "Annual",
+        "start_date": "2025-09-28",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 142,
+        "employee_id": 1099,
+        "leave_type": "Emergency",
+        "start_date": "2024-11-15",
+        "days": 7,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 143,
+        "employee_id": 1081,
+        "leave_type": "Annual",
+        "start_date": "2025-11-02",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 144,
+        "employee_id": 1013,
+        "leave_type": "Emergency",
+        "start_date": "2024-03-30",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 145,
+        "employee_id": 1030,
+        "leave_type": "Study",
+        "start_date": "2024-12-19",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 146,
+        "employee_id": 1061,
+        "leave_type": "Annual",
+        "start_date": "2024-02-10",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 147,
+        "employee_id": 1033,
+        "leave_type": "Annual",
+        "start_date": "2025-07-18",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 148,
+        "employee_id": 1062,
+        "leave_type": "Maternity",
+        "start_date": "2024-10-19",
+        "days": 1,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 149,
+        "employee_id": 1052,
+        "leave_type": "Emergency",
+        "start_date": "2024-12-18",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 150,
+        "employee_id": 1012,
+        "leave_type": "Study",
+        "start_date": "2026-07-16",
+        "days": 10,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 151,
+        "employee_id": 1052,
+        "leave_type": "Emergency",
+        "start_date": "2024-08-15",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 152,
+        "employee_id": 1052,
+        "leave_type": "Annual",
+        "start_date": "2026-03-04",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 153,
+        "employee_id": 1067,
+        "leave_type": "Annual",
+        "start_date": "2024-11-22",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 154,
+        "employee_id": 1098,
+        "leave_type": "Annual",
+        "start_date": "2025-08-26",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 155,
+        "employee_id": 1065,
+        "leave_type": "Study",
+        "start_date": "2025-05-17",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 156,
+        "employee_id": 1067,
+        "leave_type": "Sick",
+        "start_date": "2025-03-02",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 157,
+        "employee_id": 1023,
+        "leave_type": "Maternity",
+        "start_date": "2026-03-07",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 158,
+        "employee_id": 1059,
+        "leave_type": "Sick",
+        "start_date": "2024-12-03",
+        "days": 8,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 159,
+        "employee_id": 1099,
+        "leave_type": "Emergency",
+        "start_date": "2024-07-08",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 160,
+        "employee_id": 1085,
+        "leave_type": "Maternity",
+        "start_date": "2024-08-27",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 161,
+        "employee_id": 1041,
+        "leave_type": "Study",
+        "start_date": "2025-02-06",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 162,
+        "employee_id": 1088,
+        "leave_type": "Emergency",
+        "start_date": "2024-02-16",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 163,
+        "employee_id": 1063,
+        "leave_type": "Maternity",
+        "start_date": "2026-03-24",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 164,
+        "employee_id": 1094,
+        "leave_type": "Annual",
+        "start_date": "2025-07-13",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 165,
+        "employee_id": 1035,
+        "leave_type": "Maternity",
+        "start_date": "2025-11-24",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 166,
+        "employee_id": 1009,
+        "leave_type": "Sick",
+        "start_date": "2024-10-03",
+        "days": 3,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 167,
+        "employee_id": 1016,
+        "leave_type": "Sick",
+        "start_date": "2024-01-29",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 168,
+        "employee_id": 1080,
+        "leave_type": "Maternity",
+        "start_date": "2026-01-25",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 169,
+        "employee_id": 1071,
+        "leave_type": "Annual",
+        "start_date": "2025-02-28",
+        "days": 10,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 170,
+        "employee_id": 1086,
+        "leave_type": "Sick",
+        "start_date": "2024-10-03",
+        "days": 3,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 171,
+        "employee_id": 1029,
+        "leave_type": "Sick",
+        "start_date": "2024-11-16",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 172,
+        "employee_id": 1053,
+        "leave_type": "Study",
+        "start_date": "2025-11-30",
+        "days": 10,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 173,
+        "employee_id": 1054,
+        "leave_type": "Annual",
+        "start_date": "2024-02-28",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 174,
+        "employee_id": 1023,
+        "leave_type": "Emergency",
+        "start_date": "2024-03-19",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 175,
+        "employee_id": 1047,
+        "leave_type": "Emergency",
+        "start_date": "2026-01-11",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 176,
+        "employee_id": 1019,
+        "leave_type": "Annual",
+        "start_date": "2025-08-04",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 177,
+        "employee_id": 1085,
+        "leave_type": "Sick",
+        "start_date": "2025-06-20",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 178,
+        "employee_id": 1046,
+        "leave_type": "Emergency",
+        "start_date": "2025-11-12",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 179,
+        "employee_id": 1052,
+        "leave_type": "Annual",
+        "start_date": "2025-09-28",
+        "days": 7,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 180,
+        "employee_id": 1098,
+        "leave_type": "Annual",
+        "start_date": "2024-11-05",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 181,
+        "employee_id": 1025,
+        "leave_type": "Maternity",
+        "start_date": "2026-05-10",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 182,
+        "employee_id": 1035,
+        "leave_type": "Emergency",
+        "start_date": "2025-02-27",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 183,
+        "employee_id": 1099,
+        "leave_type": "Sick",
+        "start_date": "2025-09-12",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 184,
+        "employee_id": 1013,
+        "leave_type": "Emergency",
+        "start_date": "2024-07-23",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 185,
+        "employee_id": 1008,
+        "leave_type": "Annual",
+        "start_date": "2025-05-17",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 186,
+        "employee_id": 1012,
+        "leave_type": "Study",
+        "start_date": "2026-02-19",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 187,
+        "employee_id": 1076,
+        "leave_type": "Sick",
+        "start_date": "2026-07-06",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 188,
+        "employee_id": 1072,
+        "leave_type": "Maternity",
+        "start_date": "2026-02-10",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 189,
+        "employee_id": 1067,
+        "leave_type": "Maternity",
+        "start_date": "2024-12-19",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 190,
+        "employee_id": 1073,
+        "leave_type": "Study",
+        "start_date": "2026-03-25",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 191,
+        "employee_id": 1019,
+        "leave_type": "Study",
+        "start_date": "2026-04-13",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 192,
+        "employee_id": 1053,
+        "leave_type": "Maternity",
+        "start_date": "2025-05-11",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 193,
+        "employee_id": 1054,
+        "leave_type": "Study",
+        "start_date": "2025-11-16",
+        "days": 10,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 194,
+        "employee_id": 1003,
+        "leave_type": "Sick",
+        "start_date": "2026-07-10",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 195,
+        "employee_id": 1008,
+        "leave_type": "Study",
+        "start_date": "2025-08-30",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 196,
+        "employee_id": 1027,
+        "leave_type": "Study",
+        "start_date": "2026-03-11",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 197,
+        "employee_id": 1015,
+        "leave_type": "Annual",
+        "start_date": "2025-01-08",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 198,
+        "employee_id": 1039,
+        "leave_type": "Study",
+        "start_date": "2024-01-30",
+        "days": 3,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 199,
+        "employee_id": 1042,
+        "leave_type": "Maternity",
+        "start_date": "2024-09-09",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 200,
+        "employee_id": 1080,
+        "leave_type": "Annual",
+        "start_date": "2025-02-14",
+        "days": 7,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 201,
+        "employee_id": 1010,
+        "leave_type": "Maternity",
+        "start_date": "2026-01-18",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 202,
+        "employee_id": 1019,
+        "leave_type": "Sick",
+        "start_date": "2024-11-22",
+        "days": 8,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 203,
+        "employee_id": 1035,
+        "leave_type": "Study",
+        "start_date": "2025-07-15",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 204,
+        "employee_id": 1065,
+        "leave_type": "Maternity",
+        "start_date": "2025-02-10",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 205,
+        "employee_id": 1073,
+        "leave_type": "Emergency",
+        "start_date": "2025-07-06",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 206,
+        "employee_id": 1065,
+        "leave_type": "Study",
+        "start_date": "2024-06-26",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 207,
+        "employee_id": 1088,
+        "leave_type": "Emergency",
+        "start_date": "2025-07-01",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 208,
+        "employee_id": 1021,
+        "leave_type": "Sick",
+        "start_date": "2025-10-09",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 209,
+        "employee_id": 1080,
+        "leave_type": "Emergency",
+        "start_date": "2025-09-01",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 210,
+        "employee_id": 1014,
+        "leave_type": "Emergency",
+        "start_date": "2024-10-16",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 211,
+        "employee_id": 1053,
+        "leave_type": "Annual",
+        "start_date": "2025-04-11",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 212,
+        "employee_id": 1038,
+        "leave_type": "Study",
+        "start_date": "2026-03-02",
+        "days": 7,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 213,
+        "employee_id": 1013,
+        "leave_type": "Study",
+        "start_date": "2024-03-04",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 214,
+        "employee_id": 1011,
+        "leave_type": "Sick",
+        "start_date": "2025-04-18",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 215,
+        "employee_id": 1038,
+        "leave_type": "Sick",
+        "start_date": "2024-10-16",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 216,
+        "employee_id": 1031,
+        "leave_type": "Emergency",
+        "start_date": "2025-04-24",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 217,
+        "employee_id": 1082,
+        "leave_type": "Maternity",
+        "start_date": "2026-03-22",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 218,
+        "employee_id": 1026,
+        "leave_type": "Annual",
+        "start_date": "2024-09-21",
+        "days": 8,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 219,
+        "employee_id": 1015,
+        "leave_type": "Emergency",
+        "start_date": "2025-02-26",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 220,
+        "employee_id": 1041,
+        "leave_type": "Annual",
+        "start_date": "2025-10-16",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 221,
+        "employee_id": 1088,
+        "leave_type": "Annual",
+        "start_date": "2024-11-08",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 222,
+        "employee_id": 1088,
+        "leave_type": "Sick",
+        "start_date": "2025-12-31",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 223,
+        "employee_id": 1089,
+        "leave_type": "Study",
+        "start_date": "2025-07-31",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 224,
+        "employee_id": 1055,
+        "leave_type": "Maternity",
+        "start_date": "2024-01-20",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 225,
+        "employee_id": 1062,
+        "leave_type": "Study",
+        "start_date": "2025-03-05",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 226,
+        "employee_id": 1074,
+        "leave_type": "Study",
+        "start_date": "2024-10-08",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 227,
+        "employee_id": 1002,
+        "leave_type": "Sick",
+        "start_date": "2024-09-11",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 228,
+        "employee_id": 1022,
+        "leave_type": "Emergency",
+        "start_date": "2024-11-14",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 229,
+        "employee_id": 1063,
+        "leave_type": "Sick",
+        "start_date": "2025-04-15",
+        "days": 1,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 230,
+        "employee_id": 1001,
+        "leave_type": "Maternity",
+        "start_date": "2026-03-24",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 231,
+        "employee_id": 1099,
+        "leave_type": "Sick",
+        "start_date": "2024-01-15",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 232,
+        "employee_id": 1031,
+        "leave_type": "Annual",
+        "start_date": "2024-12-18",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 233,
+        "employee_id": 1014,
+        "leave_type": "Annual",
+        "start_date": "2024-07-06",
+        "days": 5,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 234,
+        "employee_id": 1049,
+        "leave_type": "Sick",
+        "start_date": "2026-05-30",
+        "days": 10,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 235,
+        "employee_id": 1045,
+        "leave_type": "Annual",
+        "start_date": "2025-09-07",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 236,
+        "employee_id": 1089,
+        "leave_type": "Emergency",
+        "start_date": "2025-01-26",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 237,
+        "employee_id": 1026,
+        "leave_type": "Sick",
+        "start_date": "2025-12-14",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 238,
+        "employee_id": 1014,
+        "leave_type": "Annual",
+        "start_date": "2026-05-17",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 239,
+        "employee_id": 1076,
+        "leave_type": "Emergency",
+        "start_date": "2025-04-29",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 240,
+        "employee_id": 1013,
+        "leave_type": "Maternity",
+        "start_date": "2025-12-24",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 241,
+        "employee_id": 1096,
+        "leave_type": "Sick",
+        "start_date": "2025-05-22",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 242,
+        "employee_id": 1050,
+        "leave_type": "Annual",
+        "start_date": "2024-05-13",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 243,
+        "employee_id": 1050,
+        "leave_type": "Study",
+        "start_date": "2026-01-15",
+        "days": 5,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 244,
+        "employee_id": 1005,
+        "leave_type": "Maternity",
+        "start_date": "2025-08-14",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 245,
+        "employee_id": 1088,
+        "leave_type": "Study",
+        "start_date": "2025-06-08",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 246,
+        "employee_id": 1064,
+        "leave_type": "Annual",
+        "start_date": "2024-04-01",
+        "days": 10,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 247,
+        "employee_id": 1079,
+        "leave_type": "Emergency",
+        "start_date": "2024-06-14",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 248,
+        "employee_id": 1087,
+        "leave_type": "Emergency",
+        "start_date": "2024-04-05",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 249,
+        "employee_id": 1020,
+        "leave_type": "Maternity",
+        "start_date": "2024-10-30",
+        "days": 8,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 250,
+        "employee_id": 1059,
+        "leave_type": "Sick",
+        "start_date": "2026-01-07",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 251,
+        "employee_id": 1091,
+        "leave_type": "Maternity",
+        "start_date": "2025-10-08",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 252,
+        "employee_id": 1016,
+        "leave_type": "Sick",
+        "start_date": "2026-06-13",
+        "days": 5,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 253,
+        "employee_id": 1089,
+        "leave_type": "Study",
+        "start_date": "2025-05-01",
+        "days": 7,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 254,
+        "employee_id": 1005,
+        "leave_type": "Emergency",
+        "start_date": "2025-02-25",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 255,
+        "employee_id": 1019,
+        "leave_type": "Maternity",
+        "start_date": "2025-05-10",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 256,
+        "employee_id": 1028,
+        "leave_type": "Study",
+        "start_date": "2024-06-15",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 257,
+        "employee_id": 1003,
+        "leave_type": "Emergency",
+        "start_date": "2025-04-24",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 258,
+        "employee_id": 1064,
+        "leave_type": "Annual",
+        "start_date": "2025-08-24",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 259,
+        "employee_id": 1066,
+        "leave_type": "Annual",
+        "start_date": "2025-05-12",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 260,
+        "employee_id": 1034,
+        "leave_type": "Sick",
+        "start_date": "2025-07-12",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 261,
+        "employee_id": 1060,
+        "leave_type": "Maternity",
+        "start_date": "2026-06-20",
+        "days": 3,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 262,
+        "employee_id": 1061,
+        "leave_type": "Annual",
+        "start_date": "2024-11-27",
+        "days": 7,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 263,
+        "employee_id": 1019,
+        "leave_type": "Sick",
+        "start_date": "2024-11-13",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 264,
+        "employee_id": 1048,
+        "leave_type": "Sick",
+        "start_date": "2025-11-27",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 265,
+        "employee_id": 1037,
+        "leave_type": "Sick",
+        "start_date": "2026-03-12",
+        "days": 3,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 266,
+        "employee_id": 1018,
+        "leave_type": "Sick",
+        "start_date": "2025-07-12",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 267,
+        "employee_id": 1091,
+        "leave_type": "Study",
+        "start_date": "2025-11-09",
+        "days": 10,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 268,
+        "employee_id": 1012,
+        "leave_type": "Study",
+        "start_date": "2025-02-07",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 269,
+        "employee_id": 1006,
+        "leave_type": "Study",
+        "start_date": "2024-05-28",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 270,
+        "employee_id": 1005,
+        "leave_type": "Emergency",
+        "start_date": "2025-11-09",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 271,
+        "employee_id": 1088,
+        "leave_type": "Annual",
+        "start_date": "2024-08-27",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 272,
+        "employee_id": 1046,
+        "leave_type": "Annual",
+        "start_date": "2025-09-30",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 273,
+        "employee_id": 1028,
+        "leave_type": "Emergency",
+        "start_date": "2026-03-26",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 274,
+        "employee_id": 1005,
+        "leave_type": "Maternity",
+        "start_date": "2024-07-31",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 275,
+        "employee_id": 1061,
+        "leave_type": "Study",
+        "start_date": "2025-12-31",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 276,
+        "employee_id": 1075,
+        "leave_type": "Emergency",
+        "start_date": "2025-07-25",
+        "days": 8,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 277,
+        "employee_id": 1033,
+        "leave_type": "Emergency",
+        "start_date": "2025-10-18",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 278,
+        "employee_id": 1050,
+        "leave_type": "Emergency",
+        "start_date": "2025-03-27",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 279,
+        "employee_id": 1052,
+        "leave_type": "Annual",
+        "start_date": "2025-11-18",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 280,
+        "employee_id": 1095,
+        "leave_type": "Sick",
+        "start_date": "2024-06-20",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 281,
+        "employee_id": 1016,
+        "leave_type": "Maternity",
+        "start_date": "2026-06-28",
+        "days": 3,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 282,
+        "employee_id": 1068,
+        "leave_type": "Study",
+        "start_date": "2026-05-11",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 283,
+        "employee_id": 1074,
+        "leave_type": "Sick",
+        "start_date": "2024-09-22",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 284,
+        "employee_id": 1021,
+        "leave_type": "Study",
+        "start_date": "2026-03-29",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 285,
+        "employee_id": 1034,
+        "leave_type": "Maternity",
+        "start_date": "2025-12-16",
+        "days": 8,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 286,
+        "employee_id": 1017,
+        "leave_type": "Study",
+        "start_date": "2024-01-08",
+        "days": 3,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 287,
+        "employee_id": 1043,
+        "leave_type": "Sick",
+        "start_date": "2025-02-08",
+        "days": 8,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 288,
+        "employee_id": 1008,
+        "leave_type": "Sick",
+        "start_date": "2024-04-26",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 289,
+        "employee_id": 1026,
+        "leave_type": "Annual",
+        "start_date": "2026-02-09",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 290,
+        "employee_id": 1068,
+        "leave_type": "Study",
+        "start_date": "2025-08-24",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 291,
+        "employee_id": 1065,
+        "leave_type": "Emergency",
+        "start_date": "2025-07-23",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 292,
+        "employee_id": 1067,
+        "leave_type": "Study",
+        "start_date": "2026-04-19",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 293,
+        "employee_id": 1075,
+        "leave_type": "Maternity",
+        "start_date": "2025-03-06",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 294,
+        "employee_id": 1095,
+        "leave_type": "Annual",
+        "start_date": "2024-12-10",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 295,
+        "employee_id": 1098,
+        "leave_type": "Sick",
+        "start_date": "2024-03-04",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 296,
+        "employee_id": 1042,
+        "leave_type": "Annual",
+        "start_date": "2026-04-20",
+        "days": 7,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 297,
+        "employee_id": 1036,
+        "leave_type": "Sick",
+        "start_date": "2024-11-03",
+        "days": 5,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 298,
+        "employee_id": 1057,
+        "leave_type": "Emergency",
+        "start_date": "2024-11-24",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 299,
+        "employee_id": 1020,
+        "leave_type": "Emergency",
+        "start_date": "2025-06-01",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 300,
+        "employee_id": 1056,
+        "leave_type": "Annual",
+        "start_date": "2024-04-26",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 301,
+        "employee_id": 1042,
+        "leave_type": "Study",
+        "start_date": "2026-01-15",
+        "days": 8,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 302,
+        "employee_id": 1096,
+        "leave_type": "Study",
+        "start_date": "2024-05-06",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 303,
+        "employee_id": 1086,
+        "leave_type": "Study",
+        "start_date": "2025-02-20",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 304,
+        "employee_id": 1041,
+        "leave_type": "Emergency",
+        "start_date": "2024-04-21",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 305,
+        "employee_id": 1099,
+        "leave_type": "Annual",
+        "start_date": "2026-03-14",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 306,
+        "employee_id": 1078,
+        "leave_type": "Emergency",
+        "start_date": "2026-06-17",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 307,
+        "employee_id": 1095,
+        "leave_type": "Sick",
+        "start_date": "2026-07-10",
+        "days": 10,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 308,
+        "employee_id": 1087,
+        "leave_type": "Emergency",
+        "start_date": "2024-04-13",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 309,
+        "employee_id": 1022,
+        "leave_type": "Sick",
+        "start_date": "2025-09-23",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 310,
+        "employee_id": 1059,
+        "leave_type": "Annual",
+        "start_date": "2026-04-24",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 311,
+        "employee_id": 1064,
+        "leave_type": "Emergency",
+        "start_date": "2025-08-20",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 312,
+        "employee_id": 1031,
+        "leave_type": "Maternity",
+        "start_date": "2024-08-31",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 313,
+        "employee_id": 1091,
+        "leave_type": "Sick",
+        "start_date": "2025-03-25",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 314,
+        "employee_id": 1086,
+        "leave_type": "Annual",
+        "start_date": "2024-12-03",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 315,
+        "employee_id": 1048,
+        "leave_type": "Study",
+        "start_date": "2024-07-24",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 316,
+        "employee_id": 1094,
+        "leave_type": "Sick",
+        "start_date": "2025-12-22",
+        "days": 1,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 317,
+        "employee_id": 1034,
+        "leave_type": "Maternity",
+        "start_date": "2025-12-26",
+        "days": 8,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 318,
+        "employee_id": 1062,
+        "leave_type": "Annual",
+        "start_date": "2024-12-04",
+        "days": 5,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 319,
+        "employee_id": 1083,
+        "leave_type": "Study",
+        "start_date": "2025-08-31",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 320,
+        "employee_id": 1014,
+        "leave_type": "Annual",
+        "start_date": "2024-12-18",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 321,
+        "employee_id": 1037,
+        "leave_type": "Emergency",
+        "start_date": "2025-11-23",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 322,
+        "employee_id": 1072,
+        "leave_type": "Emergency",
+        "start_date": "2025-06-09",
+        "days": 8,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 323,
+        "employee_id": 1031,
+        "leave_type": "Study",
+        "start_date": "2025-02-08",
+        "days": 5,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 324,
+        "employee_id": 1091,
+        "leave_type": "Study",
+        "start_date": "2024-10-08",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 325,
+        "employee_id": 1017,
+        "leave_type": "Sick",
+        "start_date": "2026-01-23",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 326,
+        "employee_id": 1040,
+        "leave_type": "Sick",
+        "start_date": "2024-10-31",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 327,
+        "employee_id": 1039,
+        "leave_type": "Annual",
+        "start_date": "2024-04-05",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 328,
+        "employee_id": 1027,
+        "leave_type": "Emergency",
+        "start_date": "2024-10-28",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 329,
+        "employee_id": 1064,
+        "leave_type": "Annual",
+        "start_date": "2024-09-06",
+        "days": 3,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 330,
+        "employee_id": 1017,
+        "leave_type": "Annual",
+        "start_date": "2025-07-08",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 331,
+        "employee_id": 1089,
+        "leave_type": "Annual",
+        "start_date": "2026-01-09",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 332,
+        "employee_id": 1035,
+        "leave_type": "Emergency",
+        "start_date": "2024-02-29",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 333,
+        "employee_id": 1027,
+        "leave_type": "Emergency",
+        "start_date": "2026-01-09",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 334,
+        "employee_id": 1018,
+        "leave_type": "Study",
+        "start_date": "2026-06-09",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 335,
+        "employee_id": 1001,
+        "leave_type": "Sick",
+        "start_date": "2026-03-14",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 336,
+        "employee_id": 1083,
+        "leave_type": "Emergency",
+        "start_date": "2024-04-12",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 337,
+        "employee_id": 1017,
+        "leave_type": "Maternity",
+        "start_date": "2025-06-22",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 338,
+        "employee_id": 1080,
+        "leave_type": "Sick",
+        "start_date": "2026-02-13",
+        "days": 1,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 339,
+        "employee_id": 1008,
+        "leave_type": "Maternity",
+        "start_date": "2024-03-21",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 340,
+        "employee_id": 1036,
+        "leave_type": "Study",
+        "start_date": "2025-07-20",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 341,
+        "employee_id": 1017,
+        "leave_type": "Annual",
+        "start_date": "2025-04-23",
+        "days": 10,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 342,
+        "employee_id": 1056,
+        "leave_type": "Maternity",
+        "start_date": "2025-04-11",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 343,
+        "employee_id": 1054,
+        "leave_type": "Maternity",
+        "start_date": "2024-05-08",
+        "days": 7,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 344,
+        "employee_id": 1075,
+        "leave_type": "Study",
+        "start_date": "2025-01-15",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 345,
+        "employee_id": 1021,
+        "leave_type": "Sick",
+        "start_date": "2025-12-09",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 346,
+        "employee_id": 1077,
+        "leave_type": "Emergency",
+        "start_date": "2024-08-15",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 347,
+        "employee_id": 1084,
+        "leave_type": "Emergency",
+        "start_date": "2024-10-15",
+        "days": 3,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 348,
+        "employee_id": 1067,
+        "leave_type": "Emergency",
+        "start_date": "2026-07-21",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 349,
+        "employee_id": 1003,
+        "leave_type": "Annual",
+        "start_date": "2026-02-04",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 350,
+        "employee_id": 1004,
+        "leave_type": "Emergency",
+        "start_date": "2025-11-18",
+        "days": 7,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 351,
+        "employee_id": 1088,
+        "leave_type": "Study",
+        "start_date": "2024-10-01",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 352,
+        "employee_id": 1045,
+        "leave_type": "Sick",
+        "start_date": "2026-07-05",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 353,
+        "employee_id": 1061,
+        "leave_type": "Maternity",
+        "start_date": "2024-01-04",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 354,
+        "employee_id": 1054,
+        "leave_type": "Maternity",
+        "start_date": "2024-05-02",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 355,
+        "employee_id": 1029,
+        "leave_type": "Study",
+        "start_date": "2024-05-13",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 356,
+        "employee_id": 1076,
+        "leave_type": "Annual",
+        "start_date": "2024-02-06",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 357,
+        "employee_id": 1075,
+        "leave_type": "Annual",
+        "start_date": "2024-07-29",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 358,
+        "employee_id": 1074,
+        "leave_type": "Annual",
+        "start_date": "2025-09-24",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 359,
+        "employee_id": 1093,
+        "leave_type": "Maternity",
+        "start_date": "2026-05-22",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 360,
+        "employee_id": 1015,
+        "leave_type": "Maternity",
+        "start_date": "2024-01-24",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 361,
+        "employee_id": 1093,
+        "leave_type": "Sick",
+        "start_date": "2025-01-12",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 362,
+        "employee_id": 1010,
+        "leave_type": "Sick",
+        "start_date": "2025-04-26",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 363,
+        "employee_id": 1010,
+        "leave_type": "Annual",
+        "start_date": "2024-05-22",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 364,
+        "employee_id": 1025,
+        "leave_type": "Sick",
+        "start_date": "2026-01-16",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 365,
+        "employee_id": 1029,
+        "leave_type": "Study",
+        "start_date": "2024-10-09",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 366,
+        "employee_id": 1081,
+        "leave_type": "Annual",
+        "start_date": "2024-02-16",
+        "days": 3,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 367,
+        "employee_id": 1019,
+        "leave_type": "Maternity",
+        "start_date": "2024-09-22",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 368,
+        "employee_id": 1100,
+        "leave_type": "Emergency",
+        "start_date": "2025-10-08",
+        "days": 5,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 369,
+        "employee_id": 1054,
+        "leave_type": "Sick",
+        "start_date": "2025-03-15",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 370,
+        "employee_id": 1025,
+        "leave_type": "Emergency",
+        "start_date": "2024-01-05",
+        "days": 6,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 371,
+        "employee_id": 1003,
+        "leave_type": "Sick",
+        "start_date": "2024-05-03",
+        "days": 7,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 372,
+        "employee_id": 1076,
+        "leave_type": "Study",
+        "start_date": "2024-02-23",
+        "days": 7,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 373,
+        "employee_id": 1066,
+        "leave_type": "Sick",
+        "start_date": "2025-01-09",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 374,
+        "employee_id": 1095,
+        "leave_type": "Sick",
+        "start_date": "2024-06-05",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 375,
+        "employee_id": 1006,
+        "leave_type": "Emergency",
+        "start_date": "2026-04-17",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 376,
+        "employee_id": 1067,
+        "leave_type": "Annual",
+        "start_date": "2024-04-29",
+        "days": 7,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 377,
+        "employee_id": 1006,
+        "leave_type": "Emergency",
+        "start_date": "2026-05-03",
+        "days": 3,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 378,
+        "employee_id": 1071,
+        "leave_type": "Emergency",
+        "start_date": "2026-05-25",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 379,
+        "employee_id": 1076,
+        "leave_type": "Annual",
+        "start_date": "2026-04-01",
+        "days": 3,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 380,
+        "employee_id": 1014,
+        "leave_type": "Study",
+        "start_date": "2024-09-01",
+        "days": 8,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 381,
+        "employee_id": 1063,
+        "leave_type": "Emergency",
+        "start_date": "2024-09-19",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 382,
+        "employee_id": 1070,
+        "leave_type": "Sick",
+        "start_date": "2025-01-18",
+        "days": 8,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 383,
+        "employee_id": 1086,
+        "leave_type": "Emergency",
+        "start_date": "2024-04-03",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 384,
+        "employee_id": 1088,
+        "leave_type": "Annual",
+        "start_date": "2024-04-28",
+        "days": 7,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 385,
+        "employee_id": 1081,
+        "leave_type": "Maternity",
+        "start_date": "2024-02-23",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 386,
+        "employee_id": 1042,
+        "leave_type": "Study",
+        "start_date": "2025-03-17",
+        "days": 1,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 387,
+        "employee_id": 1029,
+        "leave_type": "Emergency",
+        "start_date": "2024-05-16",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 388,
+        "employee_id": 1067,
+        "leave_type": "Maternity",
+        "start_date": "2025-11-29",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 389,
+        "employee_id": 1069,
+        "leave_type": "Maternity",
+        "start_date": "2025-11-02",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 390,
+        "employee_id": 1079,
+        "leave_type": "Emergency",
+        "start_date": "2024-11-24",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 391,
+        "employee_id": 1041,
+        "leave_type": "Study",
+        "start_date": "2025-12-27",
+        "days": 1,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 392,
+        "employee_id": 1069,
+        "leave_type": "Annual",
+        "start_date": "2024-10-28",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 393,
+        "employee_id": 1083,
+        "leave_type": "Study",
+        "start_date": "2025-09-11",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 394,
+        "employee_id": 1056,
+        "leave_type": "Maternity",
+        "start_date": "2024-09-20",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 395,
+        "employee_id": 1050,
+        "leave_type": "Emergency",
+        "start_date": "2025-08-01",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 396,
+        "employee_id": 1052,
+        "leave_type": "Annual",
+        "start_date": "2025-07-20",
+        "days": 6,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 397,
+        "employee_id": 1045,
+        "leave_type": "Annual",
+        "start_date": "2025-08-04",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 398,
+        "employee_id": 1033,
+        "leave_type": "Annual",
+        "start_date": "2025-05-13",
+        "days": 3,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 399,
+        "employee_id": 1056,
+        "leave_type": "Sick",
+        "start_date": "2025-06-28",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 400,
+        "employee_id": 1084,
+        "leave_type": "Emergency",
+        "start_date": "2026-02-06",
+        "days": 8,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 401,
+        "employee_id": 1090,
+        "leave_type": "Maternity",
+        "start_date": "2025-03-04",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 402,
+        "employee_id": 1096,
+        "leave_type": "Study",
+        "start_date": "2026-05-08",
+        "days": 10,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 403,
+        "employee_id": 1068,
+        "leave_type": "Study",
+        "start_date": "2025-12-09",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 404,
+        "employee_id": 1095,
+        "leave_type": "Sick",
+        "start_date": "2025-09-20",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 405,
+        "employee_id": 1082,
+        "leave_type": "Maternity",
+        "start_date": "2026-06-16",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 406,
+        "employee_id": 1058,
+        "leave_type": "Maternity",
+        "start_date": "2025-08-23",
+        "days": 3,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 407,
+        "employee_id": 1009,
+        "leave_type": "Emergency",
+        "start_date": "2025-06-15",
+        "days": 5,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 408,
+        "employee_id": 1077,
+        "leave_type": "Annual",
+        "start_date": "2025-10-09",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 409,
+        "employee_id": 1043,
+        "leave_type": "Sick",
+        "start_date": "2025-08-02",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 410,
+        "employee_id": 1094,
+        "leave_type": "Emergency",
+        "start_date": "2025-03-31",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 411,
+        "employee_id": 1056,
+        "leave_type": "Maternity",
+        "start_date": "2026-04-29",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 412,
+        "employee_id": 1040,
+        "leave_type": "Emergency",
+        "start_date": "2025-06-10",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 413,
+        "employee_id": 1005,
+        "leave_type": "Study",
+        "start_date": "2025-11-14",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 414,
+        "employee_id": 1028,
+        "leave_type": "Maternity",
+        "start_date": "2025-11-30",
+        "days": 8,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 415,
+        "employee_id": 1009,
+        "leave_type": "Maternity",
+        "start_date": "2026-05-23",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 416,
+        "employee_id": 1072,
+        "leave_type": "Annual",
+        "start_date": "2025-01-10",
+        "days": 1,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 417,
+        "employee_id": 1081,
+        "leave_type": "Annual",
+        "start_date": "2024-02-28",
+        "days": 8,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 418,
+        "employee_id": 1076,
+        "leave_type": "Study",
+        "start_date": "2026-05-06",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 419,
+        "employee_id": 1020,
+        "leave_type": "Maternity",
+        "start_date": "2024-09-19",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 420,
+        "employee_id": 1035,
+        "leave_type": "Study",
+        "start_date": "2026-02-08",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 421,
+        "employee_id": 1084,
+        "leave_type": "Annual",
+        "start_date": "2024-11-15",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 422,
+        "employee_id": 1048,
+        "leave_type": "Study",
+        "start_date": "2024-05-19",
+        "days": 1,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 423,
+        "employee_id": 1060,
+        "leave_type": "Maternity",
+        "start_date": "2024-04-30",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 424,
+        "employee_id": 1043,
+        "leave_type": "Annual",
+        "start_date": "2024-10-09",
+        "days": 6,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 425,
+        "employee_id": 1052,
+        "leave_type": "Emergency",
+        "start_date": "2025-09-08",
+        "days": 7,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 426,
+        "employee_id": 1082,
+        "leave_type": "Maternity",
+        "start_date": "2025-02-17",
+        "days": 3,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 427,
+        "employee_id": 1065,
+        "leave_type": "Study",
+        "start_date": "2024-05-06",
+        "days": 8,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 428,
+        "employee_id": 1038,
+        "leave_type": "Study",
+        "start_date": "2026-06-05",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 429,
+        "employee_id": 1018,
+        "leave_type": "Annual",
+        "start_date": "2025-01-16",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 430,
+        "employee_id": 1033,
+        "leave_type": "Sick",
+        "start_date": "2024-03-17",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 431,
+        "employee_id": 1095,
+        "leave_type": "Study",
+        "start_date": "2024-02-22",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 432,
+        "employee_id": 1047,
+        "leave_type": "Maternity",
+        "start_date": "2025-09-18",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 433,
+        "employee_id": 1063,
+        "leave_type": "Maternity",
+        "start_date": "2024-07-19",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 434,
+        "employee_id": 1090,
+        "leave_type": "Annual",
+        "start_date": "2024-03-01",
+        "days": 5,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 435,
+        "employee_id": 1026,
+        "leave_type": "Emergency",
+        "start_date": "2025-10-17",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 436,
+        "employee_id": 1072,
+        "leave_type": "Maternity",
+        "start_date": "2024-06-01",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 437,
+        "employee_id": 1016,
+        "leave_type": "Annual",
+        "start_date": "2024-04-25",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 438,
+        "employee_id": 1037,
+        "leave_type": "Emergency",
+        "start_date": "2024-10-24",
+        "days": 6,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 439,
+        "employee_id": 1097,
+        "leave_type": "Sick",
+        "start_date": "2025-06-04",
+        "days": 6,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 440,
+        "employee_id": 1050,
+        "leave_type": "Sick",
+        "start_date": "2026-05-14",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 441,
+        "employee_id": 1089,
+        "leave_type": "Study",
+        "start_date": "2025-12-20",
+        "days": 8,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 442,
+        "employee_id": 1036,
+        "leave_type": "Study",
+        "start_date": "2024-09-05",
+        "days": 3,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 443,
+        "employee_id": 1069,
+        "leave_type": "Sick",
+        "start_date": "2024-12-10",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 444,
+        "employee_id": 1023,
+        "leave_type": "Emergency",
+        "start_date": "2024-11-08",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 445,
+        "employee_id": 1008,
+        "leave_type": "Emergency",
+        "start_date": "2025-07-05",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 446,
+        "employee_id": 1096,
+        "leave_type": "Sick",
+        "start_date": "2024-11-24",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 447,
+        "employee_id": 1058,
+        "leave_type": "Study",
+        "start_date": "2024-10-17",
+        "days": 8,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 448,
+        "employee_id": 1047,
+        "leave_type": "Study",
+        "start_date": "2026-01-07",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 449,
+        "employee_id": 1084,
+        "leave_type": "Annual",
+        "start_date": "2024-06-14",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 450,
+        "employee_id": 1023,
+        "leave_type": "Study",
+        "start_date": "2026-02-16",
+        "days": 6,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 451,
+        "employee_id": 1056,
+        "leave_type": "Study",
+        "start_date": "2026-06-16",
+        "days": 7,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 452,
+        "employee_id": 1041,
+        "leave_type": "Annual",
+        "start_date": "2024-03-01",
+        "days": 8,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 453,
+        "employee_id": 1097,
+        "leave_type": "Sick",
+        "start_date": "2024-10-01",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 454,
+        "employee_id": 1043,
+        "leave_type": "Annual",
+        "start_date": "2024-03-19",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 455,
+        "employee_id": 1046,
+        "leave_type": "Maternity",
+        "start_date": "2025-02-27",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 456,
+        "employee_id": 1047,
+        "leave_type": "Sick",
+        "start_date": "2024-11-11",
+        "days": 8,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 457,
+        "employee_id": 1086,
+        "leave_type": "Maternity",
+        "start_date": "2025-02-21",
+        "days": 3,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 458,
+        "employee_id": 1031,
+        "leave_type": "Emergency",
+        "start_date": "2025-08-26",
+        "days": 5,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 459,
+        "employee_id": 1081,
+        "leave_type": "Maternity",
+        "start_date": "2025-08-09",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 460,
+        "employee_id": 1069,
+        "leave_type": "Emergency",
+        "start_date": "2026-03-20",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 461,
+        "employee_id": 1046,
+        "leave_type": "Study",
+        "start_date": "2026-04-08",
+        "days": 1,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 462,
+        "employee_id": 1046,
+        "leave_type": "Study",
+        "start_date": "2024-01-10",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 463,
+        "employee_id": 1009,
+        "leave_type": "Emergency",
+        "start_date": "2025-08-17",
+        "days": 7,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 464,
+        "employee_id": 1023,
+        "leave_type": "Sick",
+        "start_date": "2026-03-14",
+        "days": 7,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 465,
+        "employee_id": 1019,
+        "leave_type": "Emergency",
+        "start_date": "2025-07-05",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 466,
+        "employee_id": 1002,
+        "leave_type": "Annual",
+        "start_date": "2024-12-19",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 467,
+        "employee_id": 1053,
+        "leave_type": "Maternity",
+        "start_date": "2026-05-12",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 468,
+        "employee_id": 1074,
+        "leave_type": "Study",
+        "start_date": "2025-12-18",
+        "days": 3,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 469,
+        "employee_id": 1060,
+        "leave_type": "Emergency",
+        "start_date": "2026-01-16",
+        "days": 10,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 470,
+        "employee_id": 1011,
+        "leave_type": "Sick",
+        "start_date": "2026-01-10",
+        "days": 7,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 471,
+        "employee_id": 1050,
+        "leave_type": "Sick",
+        "start_date": "2024-12-15",
+        "days": 5,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 472,
+        "employee_id": 1046,
+        "leave_type": "Emergency",
+        "start_date": "2025-03-03",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 473,
+        "employee_id": 1073,
+        "leave_type": "Sick",
+        "start_date": "2025-11-02",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 474,
+        "employee_id": 1006,
+        "leave_type": "Study",
+        "start_date": "2024-08-03",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 475,
+        "employee_id": 1064,
+        "leave_type": "Study",
+        "start_date": "2024-10-20",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 476,
+        "employee_id": 1088,
+        "leave_type": "Maternity",
+        "start_date": "2026-04-01",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 477,
+        "employee_id": 1048,
+        "leave_type": "Maternity",
+        "start_date": "2024-12-05",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 478,
+        "employee_id": 1041,
+        "leave_type": "Annual",
+        "start_date": "2024-09-01",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 479,
+        "employee_id": 1094,
+        "leave_type": "Maternity",
+        "start_date": "2024-08-05",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 480,
+        "employee_id": 1024,
+        "leave_type": "Study",
+        "start_date": "2025-05-23",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 481,
+        "employee_id": 1025,
+        "leave_type": "Study",
+        "start_date": "2026-07-17",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 482,
+        "employee_id": 1011,
+        "leave_type": "Sick",
+        "start_date": "2024-05-20",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 483,
+        "employee_id": 1040,
+        "leave_type": "Emergency",
+        "start_date": "2026-04-15",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 484,
+        "employee_id": 1006,
+        "leave_type": "Emergency",
+        "start_date": "2024-12-02",
+        "days": 3,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 485,
+        "employee_id": 1088,
+        "leave_type": "Emergency",
+        "start_date": "2024-02-02",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 486,
+        "employee_id": 1060,
+        "leave_type": "Annual",
+        "start_date": "2024-08-03",
+        "days": 5,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 487,
+        "employee_id": 1026,
+        "leave_type": "Study",
+        "start_date": "2026-06-08",
+        "days": 8,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 488,
+        "employee_id": 1001,
+        "leave_type": "Study",
+        "start_date": "2025-06-13",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 489,
+        "employee_id": 1098,
+        "leave_type": "Sick",
+        "start_date": "2025-08-14",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 490,
+        "employee_id": 1048,
+        "leave_type": "Study",
+        "start_date": "2025-01-02",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 491,
+        "employee_id": 1074,
+        "leave_type": "Study",
+        "start_date": "2025-12-12",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 492,
+        "employee_id": 1035,
+        "leave_type": "Annual",
+        "start_date": "2025-01-28",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 493,
+        "employee_id": 1035,
+        "leave_type": "Study",
+        "start_date": "2024-04-22",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 494,
+        "employee_id": 1008,
+        "leave_type": "Study",
+        "start_date": "2025-04-17",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 495,
+        "employee_id": 1096,
+        "leave_type": "Annual",
+        "start_date": "2024-04-18",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 496,
+        "employee_id": 1070,
+        "leave_type": "Emergency",
+        "start_date": "2024-06-04",
+        "days": 6,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 497,
+        "employee_id": 1037,
+        "leave_type": "Emergency",
+        "start_date": "2026-05-03",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 498,
+        "employee_id": 1013,
+        "leave_type": "Maternity",
+        "start_date": "2024-01-14",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 499,
+        "employee_id": 1003,
+        "leave_type": "Study",
+        "start_date": "2024-10-04",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 500,
+        "employee_id": 1077,
+        "leave_type": "Study",
+        "start_date": "2025-01-18",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 501,
+        "employee_id": 1013,
+        "leave_type": "Maternity",
+        "start_date": "2025-01-01",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 502,
+        "employee_id": 1042,
+        "leave_type": "Study",
+        "start_date": "2024-02-26",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 503,
+        "employee_id": 1032,
+        "leave_type": "Annual",
+        "start_date": "2025-01-13",
+        "days": 8,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 504,
+        "employee_id": 1098,
+        "leave_type": "Study",
+        "start_date": "2024-11-30",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 505,
+        "employee_id": 1049,
+        "leave_type": "Study",
+        "start_date": "2026-06-08",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 506,
+        "employee_id": 1087,
+        "leave_type": "Emergency",
+        "start_date": "2024-03-23",
+        "days": 1,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 507,
+        "employee_id": 1084,
+        "leave_type": "Annual",
+        "start_date": "2025-04-13",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 508,
+        "employee_id": 1003,
+        "leave_type": "Maternity",
+        "start_date": "2024-11-26",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 509,
+        "employee_id": 1030,
+        "leave_type": "Annual",
+        "start_date": "2024-11-20",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 510,
+        "employee_id": 1098,
+        "leave_type": "Annual",
+        "start_date": "2025-08-05",
+        "days": 10,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 511,
+        "employee_id": 1039,
+        "leave_type": "Emergency",
+        "start_date": "2024-09-19",
+        "days": 8,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 512,
+        "employee_id": 1045,
+        "leave_type": "Emergency",
+        "start_date": "2024-11-02",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 513,
+        "employee_id": 1080,
+        "leave_type": "Emergency",
+        "start_date": "2024-12-28",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 514,
+        "employee_id": 1030,
+        "leave_type": "Sick",
+        "start_date": "2025-05-15",
+        "days": 5,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 515,
+        "employee_id": 1040,
+        "leave_type": "Annual",
+        "start_date": "2026-05-02",
+        "days": 1,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 516,
+        "employee_id": 1054,
+        "leave_type": "Study",
+        "start_date": "2026-07-21",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 517,
+        "employee_id": 1006,
+        "leave_type": "Emergency",
+        "start_date": "2024-12-27",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 518,
+        "employee_id": 1084,
+        "leave_type": "Emergency",
+        "start_date": "2024-06-14",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 519,
+        "employee_id": 1033,
+        "leave_type": "Emergency",
+        "start_date": "2025-06-02",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 520,
+        "employee_id": 1005,
+        "leave_type": "Study",
+        "start_date": "2024-04-24",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 521,
+        "employee_id": 1021,
+        "leave_type": "Sick",
+        "start_date": "2024-09-15",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 522,
+        "employee_id": 1026,
+        "leave_type": "Emergency",
+        "start_date": "2024-09-23",
+        "days": 7,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 523,
+        "employee_id": 1029,
+        "leave_type": "Maternity",
+        "start_date": "2025-03-28",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 524,
+        "employee_id": 1012,
+        "leave_type": "Sick",
+        "start_date": "2024-10-17",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 525,
+        "employee_id": 1051,
+        "leave_type": "Annual",
+        "start_date": "2025-12-25",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 526,
+        "employee_id": 1018,
+        "leave_type": "Emergency",
+        "start_date": "2025-06-03",
+        "days": 8,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 527,
+        "employee_id": 1091,
+        "leave_type": "Annual",
+        "start_date": "2025-01-15",
+        "days": 3,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 528,
+        "employee_id": 1007,
+        "leave_type": "Study",
+        "start_date": "2024-06-09",
+        "days": 3,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 529,
+        "employee_id": 1092,
+        "leave_type": "Study",
+        "start_date": "2024-11-04",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 530,
+        "employee_id": 1094,
+        "leave_type": "Annual",
+        "start_date": "2025-09-24",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 531,
+        "employee_id": 1001,
+        "leave_type": "Sick",
+        "start_date": "2026-04-06",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 532,
+        "employee_id": 1096,
+        "leave_type": "Maternity",
+        "start_date": "2025-04-07",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 533,
+        "employee_id": 1076,
+        "leave_type": "Annual",
+        "start_date": "2024-03-31",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 534,
+        "employee_id": 1091,
+        "leave_type": "Study",
+        "start_date": "2024-08-29",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 535,
+        "employee_id": 1066,
+        "leave_type": "Maternity",
+        "start_date": "2026-05-28",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 536,
+        "employee_id": 1080,
+        "leave_type": "Emergency",
+        "start_date": "2024-02-04",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 537,
+        "employee_id": 1066,
+        "leave_type": "Study",
+        "start_date": "2025-03-21",
+        "days": 6,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 538,
+        "employee_id": 1059,
+        "leave_type": "Emergency",
+        "start_date": "2024-08-06",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 539,
+        "employee_id": 1094,
+        "leave_type": "Maternity",
+        "start_date": "2024-11-02",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 540,
+        "employee_id": 1095,
+        "leave_type": "Sick",
+        "start_date": "2024-05-01",
+        "days": 1,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 541,
+        "employee_id": 1016,
+        "leave_type": "Study",
+        "start_date": "2024-09-15",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 542,
+        "employee_id": 1083,
+        "leave_type": "Maternity",
+        "start_date": "2024-08-01",
+        "days": 1,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 543,
+        "employee_id": 1037,
+        "leave_type": "Study",
+        "start_date": "2024-10-15",
+        "days": 8,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 544,
+        "employee_id": 1011,
+        "leave_type": "Annual",
+        "start_date": "2024-07-31",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 545,
+        "employee_id": 1096,
+        "leave_type": "Study",
+        "start_date": "2025-12-22",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 546,
+        "employee_id": 1019,
+        "leave_type": "Sick",
+        "start_date": "2024-01-19",
+        "days": 7,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 547,
+        "employee_id": 1005,
+        "leave_type": "Emergency",
+        "start_date": "2026-04-13",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 548,
+        "employee_id": 1078,
+        "leave_type": "Annual",
+        "start_date": "2025-10-19",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 549,
+        "employee_id": 1074,
+        "leave_type": "Annual",
+        "start_date": "2025-05-04",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 550,
+        "employee_id": 1043,
+        "leave_type": "Maternity",
+        "start_date": "2026-03-04",
+        "days": 5,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 551,
+        "employee_id": 1011,
+        "leave_type": "Study",
+        "start_date": "2025-06-15",
+        "days": 3,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 552,
+        "employee_id": 1029,
+        "leave_type": "Emergency",
+        "start_date": "2025-01-31",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 553,
+        "employee_id": 1052,
+        "leave_type": "Study",
+        "start_date": "2025-11-30",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 554,
+        "employee_id": 1084,
+        "leave_type": "Study",
+        "start_date": "2025-05-08",
+        "days": 7,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 555,
+        "employee_id": 1027,
+        "leave_type": "Emergency",
+        "start_date": "2026-01-12",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 556,
+        "employee_id": 1033,
+        "leave_type": "Annual",
+        "start_date": "2026-04-20",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 557,
+        "employee_id": 1068,
+        "leave_type": "Maternity",
+        "start_date": "2025-05-18",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 558,
+        "employee_id": 1021,
+        "leave_type": "Emergency",
+        "start_date": "2025-08-30",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 559,
+        "employee_id": 1016,
+        "leave_type": "Study",
+        "start_date": "2025-03-15",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 560,
+        "employee_id": 1059,
+        "leave_type": "Maternity",
+        "start_date": "2024-06-04",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 561,
+        "employee_id": 1077,
+        "leave_type": "Maternity",
+        "start_date": "2025-03-14",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 562,
+        "employee_id": 1051,
+        "leave_type": "Emergency",
+        "start_date": "2025-04-12",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 563,
+        "employee_id": 1028,
+        "leave_type": "Emergency",
+        "start_date": "2024-02-25",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 564,
+        "employee_id": 1086,
+        "leave_type": "Study",
+        "start_date": "2025-02-15",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 565,
+        "employee_id": 1065,
+        "leave_type": "Emergency",
+        "start_date": "2024-03-20",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 566,
+        "employee_id": 1015,
+        "leave_type": "Emergency",
+        "start_date": "2025-02-23",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 567,
+        "employee_id": 1040,
+        "leave_type": "Maternity",
+        "start_date": "2024-01-16",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 568,
+        "employee_id": 1025,
+        "leave_type": "Emergency",
+        "start_date": "2024-01-01",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 569,
+        "employee_id": 1012,
+        "leave_type": "Sick",
+        "start_date": "2024-09-12",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 570,
+        "employee_id": 1093,
+        "leave_type": "Maternity",
+        "start_date": "2024-10-25",
+        "days": 8,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 571,
+        "employee_id": 1015,
+        "leave_type": "Study",
+        "start_date": "2024-09-28",
+        "days": 3,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 572,
+        "employee_id": 1041,
+        "leave_type": "Study",
+        "start_date": "2024-02-12",
+        "days": 6,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 573,
+        "employee_id": 1053,
+        "leave_type": "Maternity",
+        "start_date": "2024-08-03",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 574,
+        "employee_id": 1078,
+        "leave_type": "Sick",
+        "start_date": "2024-07-26",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 575,
+        "employee_id": 1065,
+        "leave_type": "Maternity",
+        "start_date": "2024-03-19",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 576,
+        "employee_id": 1007,
+        "leave_type": "Study",
+        "start_date": "2024-10-07",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 577,
+        "employee_id": 1016,
+        "leave_type": "Sick",
+        "start_date": "2026-07-04",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 578,
+        "employee_id": 1059,
+        "leave_type": "Annual",
+        "start_date": "2024-09-28",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 579,
+        "employee_id": 1034,
+        "leave_type": "Emergency",
+        "start_date": "2024-08-01",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 580,
+        "employee_id": 1019,
+        "leave_type": "Sick",
+        "start_date": "2025-03-23",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 581,
+        "employee_id": 1086,
+        "leave_type": "Emergency",
+        "start_date": "2024-07-20",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 582,
+        "employee_id": 1096,
+        "leave_type": "Sick",
+        "start_date": "2024-09-22",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 583,
+        "employee_id": 1062,
+        "leave_type": "Maternity",
+        "start_date": "2025-06-04",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 584,
+        "employee_id": 1060,
+        "leave_type": "Sick",
+        "start_date": "2024-08-15",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 585,
+        "employee_id": 1021,
+        "leave_type": "Maternity",
+        "start_date": "2024-04-13",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 586,
+        "employee_id": 1019,
+        "leave_type": "Sick",
+        "start_date": "2024-02-16",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 587,
+        "employee_id": 1032,
+        "leave_type": "Annual",
+        "start_date": "2024-02-01",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 588,
+        "employee_id": 1090,
+        "leave_type": "Sick",
+        "start_date": "2025-01-26",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 589,
+        "employee_id": 1005,
+        "leave_type": "Maternity",
+        "start_date": "2025-05-06",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 590,
+        "employee_id": 1015,
+        "leave_type": "Sick",
+        "start_date": "2025-05-02",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 591,
+        "employee_id": 1072,
+        "leave_type": "Emergency",
+        "start_date": "2025-03-27",
+        "days": 3,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 592,
+        "employee_id": 1040,
+        "leave_type": "Sick",
+        "start_date": "2026-07-04",
+        "days": 3,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 593,
+        "employee_id": 1016,
+        "leave_type": "Sick",
+        "start_date": "2025-08-05",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 594,
+        "employee_id": 1020,
+        "leave_type": "Maternity",
+        "start_date": "2024-09-15",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 595,
+        "employee_id": 1081,
+        "leave_type": "Maternity",
+        "start_date": "2024-07-05",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 596,
+        "employee_id": 1067,
+        "leave_type": "Emergency",
+        "start_date": "2024-08-20",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 597,
+        "employee_id": 1050,
+        "leave_type": "Emergency",
+        "start_date": "2025-03-08",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 598,
+        "employee_id": 1021,
+        "leave_type": "Study",
+        "start_date": "2025-03-29",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 599,
+        "employee_id": 1002,
+        "leave_type": "Study",
+        "start_date": "2025-03-10",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 600,
+        "employee_id": 1051,
+        "leave_type": "Sick",
+        "start_date": "2025-01-12",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 601,
+        "employee_id": 1001,
+        "leave_type": "Emergency",
+        "start_date": "2024-12-11",
+        "days": 8,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 602,
+        "employee_id": 1023,
+        "leave_type": "Annual",
+        "start_date": "2025-11-03",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 603,
+        "employee_id": 1080,
+        "leave_type": "Maternity",
+        "start_date": "2026-02-18",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 604,
+        "employee_id": 1023,
+        "leave_type": "Sick",
+        "start_date": "2024-10-26",
+        "days": 7,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 605,
+        "employee_id": 1037,
+        "leave_type": "Study",
+        "start_date": "2025-06-18",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 606,
+        "employee_id": 1015,
+        "leave_type": "Annual",
+        "start_date": "2026-03-06",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 607,
+        "employee_id": 1077,
+        "leave_type": "Sick",
+        "start_date": "2024-10-10",
+        "days": 8,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 608,
+        "employee_id": 1034,
+        "leave_type": "Study",
+        "start_date": "2024-04-21",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 609,
+        "employee_id": 1003,
+        "leave_type": "Maternity",
+        "start_date": "2024-12-15",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 610,
+        "employee_id": 1022,
+        "leave_type": "Maternity",
+        "start_date": "2024-12-03",
+        "days": 8,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 611,
+        "employee_id": 1075,
+        "leave_type": "Sick",
+        "start_date": "2024-06-29",
+        "days": 7,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 612,
+        "employee_id": 1038,
+        "leave_type": "Maternity",
+        "start_date": "2024-12-31",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 613,
+        "employee_id": 1020,
+        "leave_type": "Study",
+        "start_date": "2024-03-16",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 614,
+        "employee_id": 1051,
+        "leave_type": "Emergency",
+        "start_date": "2024-03-29",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 615,
+        "employee_id": 1095,
+        "leave_type": "Sick",
+        "start_date": "2025-05-28",
+        "days": 6,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 616,
+        "employee_id": 1080,
+        "leave_type": "Sick",
+        "start_date": "2024-06-18",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 617,
+        "employee_id": 1077,
+        "leave_type": "Annual",
+        "start_date": "2024-04-14",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 618,
+        "employee_id": 1019,
+        "leave_type": "Emergency",
+        "start_date": "2026-04-13",
+        "days": 10,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 619,
+        "employee_id": 1026,
+        "leave_type": "Emergency",
+        "start_date": "2025-05-20",
+        "days": 6,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 620,
+        "employee_id": 1001,
+        "leave_type": "Annual",
+        "start_date": "2026-02-13",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 621,
+        "employee_id": 1008,
+        "leave_type": "Annual",
+        "start_date": "2025-01-16",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 622,
+        "employee_id": 1020,
+        "leave_type": "Emergency",
+        "start_date": "2025-03-05",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 623,
+        "employee_id": 1091,
+        "leave_type": "Maternity",
+        "start_date": "2024-01-24",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 624,
+        "employee_id": 1064,
+        "leave_type": "Emergency",
+        "start_date": "2025-09-05",
+        "days": 5,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 625,
+        "employee_id": 1093,
+        "leave_type": "Annual",
+        "start_date": "2025-02-16",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 626,
+        "employee_id": 1092,
+        "leave_type": "Sick",
+        "start_date": "2025-03-20",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 627,
+        "employee_id": 1050,
+        "leave_type": "Emergency",
+        "start_date": "2024-01-07",
+        "days": 3,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 628,
+        "employee_id": 1032,
+        "leave_type": "Study",
+        "start_date": "2024-01-21",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 629,
+        "employee_id": 1049,
+        "leave_type": "Sick",
+        "start_date": "2024-10-25",
+        "days": 7,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 630,
+        "employee_id": 1082,
+        "leave_type": "Emergency",
+        "start_date": "2026-01-26",
+        "days": 7,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 631,
+        "employee_id": 1052,
+        "leave_type": "Annual",
+        "start_date": "2024-11-29",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 632,
+        "employee_id": 1050,
+        "leave_type": "Annual",
+        "start_date": "2024-04-24",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 633,
+        "employee_id": 1034,
+        "leave_type": "Sick",
+        "start_date": "2026-01-02",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 634,
+        "employee_id": 1031,
+        "leave_type": "Annual",
+        "start_date": "2026-04-04",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 635,
+        "employee_id": 1047,
+        "leave_type": "Study",
+        "start_date": "2024-08-06",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 636,
+        "employee_id": 1076,
+        "leave_type": "Sick",
+        "start_date": "2026-01-21",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 637,
+        "employee_id": 1069,
+        "leave_type": "Emergency",
+        "start_date": "2026-02-05",
+        "days": 1,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 638,
+        "employee_id": 1039,
+        "leave_type": "Study",
+        "start_date": "2026-03-03",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 639,
+        "employee_id": 1068,
+        "leave_type": "Emergency",
+        "start_date": "2025-10-22",
+        "days": 7,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 640,
+        "employee_id": 1006,
+        "leave_type": "Maternity",
+        "start_date": "2025-02-24",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 641,
+        "employee_id": 1094,
+        "leave_type": "Emergency",
+        "start_date": "2024-01-05",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 642,
+        "employee_id": 1043,
+        "leave_type": "Sick",
+        "start_date": "2024-01-22",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 643,
+        "employee_id": 1064,
+        "leave_type": "Annual",
+        "start_date": "2025-08-19",
+        "days": 8,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 644,
+        "employee_id": 1039,
+        "leave_type": "Emergency",
+        "start_date": "2026-05-07",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 645,
+        "employee_id": 1002,
+        "leave_type": "Maternity",
+        "start_date": "2024-04-29",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 646,
+        "employee_id": 1081,
+        "leave_type": "Annual",
+        "start_date": "2024-04-15",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 647,
+        "employee_id": 1027,
+        "leave_type": "Sick",
+        "start_date": "2024-11-14",
+        "days": 3,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 648,
+        "employee_id": 1098,
+        "leave_type": "Emergency",
+        "start_date": "2025-02-14",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 649,
+        "employee_id": 1091,
+        "leave_type": "Annual",
+        "start_date": "2025-06-03",
+        "days": 1,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 650,
+        "employee_id": 1058,
+        "leave_type": "Study",
+        "start_date": "2025-05-07",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 651,
+        "employee_id": 1047,
+        "leave_type": "Maternity",
+        "start_date": "2024-12-17",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 652,
+        "employee_id": 1091,
+        "leave_type": "Study",
+        "start_date": "2024-12-03",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 653,
+        "employee_id": 1088,
+        "leave_type": "Study",
+        "start_date": "2026-02-18",
+        "days": 3,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 654,
+        "employee_id": 1081,
+        "leave_type": "Study",
+        "start_date": "2025-11-06",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 655,
+        "employee_id": 1040,
+        "leave_type": "Annual",
+        "start_date": "2024-07-26",
+        "days": 1,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 656,
+        "employee_id": 1013,
+        "leave_type": "Emergency",
+        "start_date": "2026-04-27",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 657,
+        "employee_id": 1072,
+        "leave_type": "Study",
+        "start_date": "2024-09-13",
+        "days": 5,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 658,
+        "employee_id": 1040,
+        "leave_type": "Sick",
+        "start_date": "2025-01-08",
+        "days": 7,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 659,
+        "employee_id": 1065,
+        "leave_type": "Emergency",
+        "start_date": "2025-11-22",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 660,
+        "employee_id": 1048,
+        "leave_type": "Study",
+        "start_date": "2026-04-15",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 661,
+        "employee_id": 1064,
+        "leave_type": "Annual",
+        "start_date": "2024-06-17",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 662,
+        "employee_id": 1031,
+        "leave_type": "Annual",
+        "start_date": "2024-07-29",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 663,
+        "employee_id": 1084,
+        "leave_type": "Sick",
+        "start_date": "2025-07-19",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 664,
+        "employee_id": 1041,
+        "leave_type": "Emergency",
+        "start_date": "2025-03-04",
+        "days": 8,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 665,
+        "employee_id": 1003,
+        "leave_type": "Annual",
+        "start_date": "2025-12-10",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 666,
+        "employee_id": 1030,
+        "leave_type": "Sick",
+        "start_date": "2024-12-08",
+        "days": 3,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 667,
+        "employee_id": 1081,
+        "leave_type": "Maternity",
+        "start_date": "2025-12-22",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 668,
+        "employee_id": 1029,
+        "leave_type": "Sick",
+        "start_date": "2025-10-15",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 669,
+        "employee_id": 1035,
+        "leave_type": "Emergency",
+        "start_date": "2025-09-04",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 670,
+        "employee_id": 1010,
+        "leave_type": "Maternity",
+        "start_date": "2024-05-26",
+        "days": 1,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 671,
+        "employee_id": 1043,
+        "leave_type": "Emergency",
+        "start_date": "2024-09-17",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 672,
+        "employee_id": 1046,
+        "leave_type": "Sick",
+        "start_date": "2026-02-14",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 673,
+        "employee_id": 1083,
+        "leave_type": "Sick",
+        "start_date": "2025-04-25",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 674,
+        "employee_id": 1033,
+        "leave_type": "Maternity",
+        "start_date": "2026-03-21",
+        "days": 5,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 675,
+        "employee_id": 1062,
+        "leave_type": "Emergency",
+        "start_date": "2025-12-07",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 676,
+        "employee_id": 1022,
+        "leave_type": "Sick",
+        "start_date": "2025-02-17",
+        "days": 6,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 677,
+        "employee_id": 1016,
+        "leave_type": "Emergency",
+        "start_date": "2025-04-12",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 678,
+        "employee_id": 1036,
+        "leave_type": "Annual",
+        "start_date": "2024-02-12",
+        "days": 6,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 679,
+        "employee_id": 1001,
+        "leave_type": "Study",
+        "start_date": "2024-12-09",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 680,
+        "employee_id": 1002,
+        "leave_type": "Annual",
+        "start_date": "2025-04-30",
+        "days": 3,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 681,
+        "employee_id": 1041,
+        "leave_type": "Emergency",
+        "start_date": "2024-07-08",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 682,
+        "employee_id": 1019,
+        "leave_type": "Study",
+        "start_date": "2025-09-21",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 683,
+        "employee_id": 1009,
+        "leave_type": "Study",
+        "start_date": "2024-03-07",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 684,
+        "employee_id": 1025,
+        "leave_type": "Annual",
+        "start_date": "2024-12-11",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 685,
+        "employee_id": 1011,
+        "leave_type": "Maternity",
+        "start_date": "2026-02-17",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 686,
+        "employee_id": 1089,
+        "leave_type": "Emergency",
+        "start_date": "2024-09-30",
+        "days": 7,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 687,
+        "employee_id": 1099,
+        "leave_type": "Emergency",
+        "start_date": "2024-08-04",
+        "days": 8,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 688,
+        "employee_id": 1092,
+        "leave_type": "Sick",
+        "start_date": "2026-02-07",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 689,
+        "employee_id": 1029,
+        "leave_type": "Emergency",
+        "start_date": "2025-11-23",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 690,
+        "employee_id": 1005,
+        "leave_type": "Emergency",
+        "start_date": "2024-08-09",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 691,
+        "employee_id": 1088,
+        "leave_type": "Study",
+        "start_date": "2026-04-05",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 692,
+        "employee_id": 1064,
+        "leave_type": "Maternity",
+        "start_date": "2025-08-15",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 693,
+        "employee_id": 1033,
+        "leave_type": "Emergency",
+        "start_date": "2026-02-22",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 694,
+        "employee_id": 1004,
+        "leave_type": "Emergency",
+        "start_date": "2025-05-30",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 695,
+        "employee_id": 1026,
+        "leave_type": "Sick",
+        "start_date": "2024-02-22",
+        "days": 7,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 696,
+        "employee_id": 1072,
+        "leave_type": "Emergency",
+        "start_date": "2024-02-06",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 697,
+        "employee_id": 1094,
+        "leave_type": "Emergency",
+        "start_date": "2025-04-02",
+        "days": 7,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 698,
+        "employee_id": 1074,
+        "leave_type": "Emergency",
+        "start_date": "2026-06-04",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 699,
+        "employee_id": 1096,
+        "leave_type": "Maternity",
+        "start_date": "2026-07-27",
+        "days": 8,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 700,
+        "employee_id": 1098,
+        "leave_type": "Study",
+        "start_date": "2025-03-10",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 701,
+        "employee_id": 1089,
+        "leave_type": "Annual",
+        "start_date": "2025-01-28",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 702,
+        "employee_id": 1033,
+        "leave_type": "Annual",
+        "start_date": "2024-01-21",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 703,
+        "employee_id": 1055,
+        "leave_type": "Study",
+        "start_date": "2024-02-26",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 704,
+        "employee_id": 1092,
+        "leave_type": "Sick",
+        "start_date": "2025-11-17",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 705,
+        "employee_id": 1058,
+        "leave_type": "Study",
+        "start_date": "2025-10-08",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 706,
+        "employee_id": 1093,
+        "leave_type": "Annual",
+        "start_date": "2026-01-31",
+        "days": 6,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 707,
+        "employee_id": 1083,
+        "leave_type": "Sick",
+        "start_date": "2026-04-17",
+        "days": 6,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 708,
+        "employee_id": 1044,
+        "leave_type": "Emergency",
+        "start_date": "2026-02-18",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 709,
+        "employee_id": 1021,
+        "leave_type": "Annual",
+        "start_date": "2026-03-14",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 710,
+        "employee_id": 1005,
+        "leave_type": "Sick",
+        "start_date": "2024-09-23",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 711,
+        "employee_id": 1015,
+        "leave_type": "Study",
+        "start_date": "2026-04-13",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 712,
+        "employee_id": 1090,
+        "leave_type": "Study",
+        "start_date": "2026-07-18",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 713,
+        "employee_id": 1016,
+        "leave_type": "Maternity",
+        "start_date": "2025-03-03",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 714,
+        "employee_id": 1032,
+        "leave_type": "Sick",
+        "start_date": "2024-02-04",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 715,
+        "employee_id": 1042,
+        "leave_type": "Sick",
+        "start_date": "2025-03-15",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 716,
+        "employee_id": 1091,
+        "leave_type": "Emergency",
+        "start_date": "2025-07-11",
+        "days": 5,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 717,
+        "employee_id": 1091,
+        "leave_type": "Annual",
+        "start_date": "2025-02-16",
+        "days": 5,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 718,
+        "employee_id": 1017,
+        "leave_type": "Sick",
+        "start_date": "2025-10-24",
+        "days": 8,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 719,
+        "employee_id": 1066,
+        "leave_type": "Study",
+        "start_date": "2025-12-25",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 720,
+        "employee_id": 1004,
+        "leave_type": "Emergency",
+        "start_date": "2026-04-12",
+        "days": 6,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 721,
+        "employee_id": 1093,
+        "leave_type": "Study",
+        "start_date": "2026-04-15",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 722,
+        "employee_id": 1013,
+        "leave_type": "Emergency",
+        "start_date": "2024-03-05",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 723,
+        "employee_id": 1061,
+        "leave_type": "Annual",
+        "start_date": "2025-03-27",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 724,
+        "employee_id": 1011,
+        "leave_type": "Maternity",
+        "start_date": "2026-03-27",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 725,
+        "employee_id": 1021,
+        "leave_type": "Annual",
+        "start_date": "2025-05-14",
+        "days": 10,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 726,
+        "employee_id": 1078,
+        "leave_type": "Study",
+        "start_date": "2024-01-21",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 727,
+        "employee_id": 1002,
+        "leave_type": "Study",
+        "start_date": "2024-04-18",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 728,
+        "employee_id": 1025,
+        "leave_type": "Study",
+        "start_date": "2024-11-04",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 729,
+        "employee_id": 1035,
+        "leave_type": "Annual",
+        "start_date": "2025-12-07",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 730,
+        "employee_id": 1045,
+        "leave_type": "Emergency",
+        "start_date": "2026-04-27",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 731,
+        "employee_id": 1062,
+        "leave_type": "Sick",
+        "start_date": "2025-12-02",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 732,
+        "employee_id": 1041,
+        "leave_type": "Sick",
+        "start_date": "2026-07-06",
+        "days": 8,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 733,
+        "employee_id": 1065,
+        "leave_type": "Annual",
+        "start_date": "2025-11-15",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 734,
+        "employee_id": 1077,
+        "leave_type": "Maternity",
+        "start_date": "2026-05-02",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 735,
+        "employee_id": 1038,
+        "leave_type": "Maternity",
+        "start_date": "2025-05-11",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 736,
+        "employee_id": 1003,
+        "leave_type": "Study",
+        "start_date": "2025-02-24",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 737,
+        "employee_id": 1038,
+        "leave_type": "Study",
+        "start_date": "2026-02-17",
+        "days": 1,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 738,
+        "employee_id": 1048,
+        "leave_type": "Sick",
+        "start_date": "2025-11-19",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 739,
+        "employee_id": 1027,
+        "leave_type": "Sick",
+        "start_date": "2025-01-07",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 740,
+        "employee_id": 1095,
+        "leave_type": "Maternity",
+        "start_date": "2025-09-08",
+        "days": 5,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 741,
+        "employee_id": 1034,
+        "leave_type": "Study",
+        "start_date": "2025-12-23",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 742,
+        "employee_id": 1086,
+        "leave_type": "Sick",
+        "start_date": "2026-05-07",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 743,
+        "employee_id": 1064,
+        "leave_type": "Emergency",
+        "start_date": "2025-07-06",
+        "days": 3,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 744,
+        "employee_id": 1087,
+        "leave_type": "Study",
+        "start_date": "2025-10-07",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 745,
+        "employee_id": 1078,
+        "leave_type": "Emergency",
+        "start_date": "2025-07-11",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 746,
+        "employee_id": 1085,
+        "leave_type": "Annual",
+        "start_date": "2024-11-06",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 747,
+        "employee_id": 1056,
+        "leave_type": "Emergency",
+        "start_date": "2024-04-17",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 748,
+        "employee_id": 1010,
+        "leave_type": "Sick",
+        "start_date": "2026-04-30",
+        "days": 1,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 749,
+        "employee_id": 1060,
+        "leave_type": "Maternity",
+        "start_date": "2026-06-02",
+        "days": 6,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 750,
+        "employee_id": 1092,
+        "leave_type": "Sick",
+        "start_date": "2026-04-14",
+        "days": 6,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 751,
+        "employee_id": 1098,
+        "leave_type": "Sick",
+        "start_date": "2026-05-11",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 752,
+        "employee_id": 1074,
+        "leave_type": "Annual",
+        "start_date": "2025-10-08",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 753,
+        "employee_id": 1070,
+        "leave_type": "Sick",
+        "start_date": "2024-09-11",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 754,
+        "employee_id": 1086,
+        "leave_type": "Emergency",
+        "start_date": "2024-03-18",
+        "days": 6,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 755,
+        "employee_id": 1015,
+        "leave_type": "Annual",
+        "start_date": "2024-09-24",
+        "days": 5,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 756,
+        "employee_id": 1082,
+        "leave_type": "Maternity",
+        "start_date": "2025-12-08",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 757,
+        "employee_id": 1077,
+        "leave_type": "Annual",
+        "start_date": "2025-10-01",
+        "days": 10,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 758,
+        "employee_id": 1024,
+        "leave_type": "Maternity",
+        "start_date": "2024-12-24",
+        "days": 5,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 759,
+        "employee_id": 1073,
+        "leave_type": "Maternity",
+        "start_date": "2025-07-21",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 760,
+        "employee_id": 1005,
+        "leave_type": "Emergency",
+        "start_date": "2024-06-17",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 761,
+        "employee_id": 1098,
+        "leave_type": "Study",
+        "start_date": "2025-02-03",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 762,
+        "employee_id": 1090,
+        "leave_type": "Annual",
+        "start_date": "2024-04-09",
+        "days": 3,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 763,
+        "employee_id": 1048,
+        "leave_type": "Study",
+        "start_date": "2024-01-24",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 764,
+        "employee_id": 1040,
+        "leave_type": "Sick",
+        "start_date": "2026-03-28",
+        "days": 3,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 765,
+        "employee_id": 1073,
+        "leave_type": "Maternity",
+        "start_date": "2024-03-13",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 766,
+        "employee_id": 1084,
+        "leave_type": "Study",
+        "start_date": "2025-02-20",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 767,
+        "employee_id": 1077,
+        "leave_type": "Emergency",
+        "start_date": "2026-07-09",
+        "days": 5,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 768,
+        "employee_id": 1035,
+        "leave_type": "Emergency",
+        "start_date": "2024-04-26",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 769,
+        "employee_id": 1043,
+        "leave_type": "Maternity",
+        "start_date": "2025-01-12",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 770,
+        "employee_id": 1043,
+        "leave_type": "Sick",
+        "start_date": "2025-03-03",
+        "days": 1,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 771,
+        "employee_id": 1090,
+        "leave_type": "Annual",
+        "start_date": "2024-08-27",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 772,
+        "employee_id": 1025,
+        "leave_type": "Emergency",
+        "start_date": "2024-06-18",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 773,
+        "employee_id": 1074,
+        "leave_type": "Study",
+        "start_date": "2024-07-06",
+        "days": 3,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 774,
+        "employee_id": 1056,
+        "leave_type": "Study",
+        "start_date": "2024-06-09",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 775,
+        "employee_id": 1065,
+        "leave_type": "Maternity",
+        "start_date": "2025-06-10",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 776,
+        "employee_id": 1042,
+        "leave_type": "Maternity",
+        "start_date": "2025-07-24",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 777,
+        "employee_id": 1086,
+        "leave_type": "Annual",
+        "start_date": "2025-12-11",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 778,
+        "employee_id": 1053,
+        "leave_type": "Sick",
+        "start_date": "2026-05-17",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 779,
+        "employee_id": 1025,
+        "leave_type": "Study",
+        "start_date": "2026-01-06",
+        "days": 7,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 780,
+        "employee_id": 1083,
+        "leave_type": "Sick",
+        "start_date": "2024-06-07",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 781,
+        "employee_id": 1083,
+        "leave_type": "Annual",
+        "start_date": "2024-03-24",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 782,
+        "employee_id": 1038,
+        "leave_type": "Study",
+        "start_date": "2026-04-14",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 783,
+        "employee_id": 1019,
+        "leave_type": "Emergency",
+        "start_date": "2025-06-07",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 784,
+        "employee_id": 1051,
+        "leave_type": "Annual",
+        "start_date": "2025-01-20",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 785,
+        "employee_id": 1044,
+        "leave_type": "Study",
+        "start_date": "2026-07-16",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 786,
+        "employee_id": 1037,
+        "leave_type": "Sick",
+        "start_date": "2025-06-18",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 787,
+        "employee_id": 1051,
+        "leave_type": "Annual",
+        "start_date": "2024-04-01",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 788,
+        "employee_id": 1022,
+        "leave_type": "Annual",
+        "start_date": "2024-08-25",
+        "days": 8,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 789,
+        "employee_id": 1004,
+        "leave_type": "Annual",
+        "start_date": "2026-03-08",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 790,
+        "employee_id": 1097,
+        "leave_type": "Maternity",
+        "start_date": "2025-06-01",
+        "days": 3,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 791,
+        "employee_id": 1094,
+        "leave_type": "Maternity",
+        "start_date": "2025-04-11",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 792,
+        "employee_id": 1061,
+        "leave_type": "Annual",
+        "start_date": "2026-01-06",
+        "days": 7,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 793,
+        "employee_id": 1075,
+        "leave_type": "Annual",
+        "start_date": "2025-06-25",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 794,
+        "employee_id": 1021,
+        "leave_type": "Maternity",
+        "start_date": "2024-04-15",
+        "days": 5,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 795,
+        "employee_id": 1057,
+        "leave_type": "Annual",
+        "start_date": "2025-06-17",
+        "days": 7,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 796,
+        "employee_id": 1022,
+        "leave_type": "Emergency",
+        "start_date": "2025-08-03",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 797,
+        "employee_id": 1028,
+        "leave_type": "Annual",
+        "start_date": "2026-05-14",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 798,
+        "employee_id": 1098,
+        "leave_type": "Study",
+        "start_date": "2026-06-22",
+        "days": 6,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 799,
+        "employee_id": 1034,
+        "leave_type": "Emergency",
+        "start_date": "2024-03-13",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 800,
+        "employee_id": 1006,
+        "leave_type": "Maternity",
+        "start_date": "2025-09-28",
+        "days": 3,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 801,
+        "employee_id": 1088,
+        "leave_type": "Emergency",
+        "start_date": "2024-11-26",
+        "days": 1,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 802,
+        "employee_id": 1025,
+        "leave_type": "Study",
+        "start_date": "2025-10-22",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 803,
+        "employee_id": 1005,
+        "leave_type": "Annual",
+        "start_date": "2025-11-05",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 804,
+        "employee_id": 1055,
+        "leave_type": "Maternity",
+        "start_date": "2025-05-03",
+        "days": 1,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 805,
+        "employee_id": 1017,
+        "leave_type": "Study",
+        "start_date": "2025-12-21",
+        "days": 7,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 806,
+        "employee_id": 1064,
+        "leave_type": "Study",
+        "start_date": "2025-08-11",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 807,
+        "employee_id": 1025,
+        "leave_type": "Emergency",
+        "start_date": "2026-03-12",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 808,
+        "employee_id": 1081,
+        "leave_type": "Sick",
+        "start_date": "2025-03-07",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 809,
+        "employee_id": 1013,
+        "leave_type": "Maternity",
+        "start_date": "2025-10-20",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 810,
+        "employee_id": 1095,
+        "leave_type": "Sick",
+        "start_date": "2026-04-06",
+        "days": 3,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 811,
+        "employee_id": 1055,
+        "leave_type": "Study",
+        "start_date": "2026-04-24",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 812,
+        "employee_id": 1046,
+        "leave_type": "Annual",
+        "start_date": "2025-07-20",
+        "days": 3,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 813,
+        "employee_id": 1079,
+        "leave_type": "Emergency",
+        "start_date": "2025-11-29",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 814,
+        "employee_id": 1073,
+        "leave_type": "Study",
+        "start_date": "2025-12-03",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 815,
+        "employee_id": 1031,
+        "leave_type": "Emergency",
+        "start_date": "2026-03-23",
+        "days": 3,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 816,
+        "employee_id": 1073,
+        "leave_type": "Annual",
+        "start_date": "2024-02-03",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 817,
+        "employee_id": 1047,
+        "leave_type": "Emergency",
+        "start_date": "2024-03-20",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 818,
+        "employee_id": 1060,
+        "leave_type": "Emergency",
+        "start_date": "2024-12-19",
+        "days": 8,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 819,
+        "employee_id": 1055,
+        "leave_type": "Emergency",
+        "start_date": "2026-04-26",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 820,
+        "employee_id": 1039,
+        "leave_type": "Study",
+        "start_date": "2026-05-04",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 821,
+        "employee_id": 1095,
+        "leave_type": "Study",
+        "start_date": "2026-05-30",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 822,
+        "employee_id": 1079,
+        "leave_type": "Study",
+        "start_date": "2026-01-15",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 823,
+        "employee_id": 1062,
+        "leave_type": "Maternity",
+        "start_date": "2024-12-13",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 824,
+        "employee_id": 1042,
+        "leave_type": "Study",
+        "start_date": "2024-11-16",
+        "days": 7,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 825,
+        "employee_id": 1001,
+        "leave_type": "Maternity",
+        "start_date": "2025-08-09",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 826,
+        "employee_id": 1067,
+        "leave_type": "Annual",
+        "start_date": "2025-03-19",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 827,
+        "employee_id": 1048,
+        "leave_type": "Emergency",
+        "start_date": "2025-12-20",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 828,
+        "employee_id": 1036,
+        "leave_type": "Sick",
+        "start_date": "2025-02-13",
+        "days": 3,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 829,
+        "employee_id": 1020,
+        "leave_type": "Sick",
+        "start_date": "2025-04-24",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 830,
+        "employee_id": 1039,
+        "leave_type": "Sick",
+        "start_date": "2025-10-04",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 831,
+        "employee_id": 1045,
+        "leave_type": "Annual",
+        "start_date": "2024-02-28",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 832,
+        "employee_id": 1038,
+        "leave_type": "Sick",
+        "start_date": "2026-07-01",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 833,
+        "employee_id": 1023,
+        "leave_type": "Annual",
+        "start_date": "2026-06-08",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 834,
+        "employee_id": 1040,
+        "leave_type": "Annual",
+        "start_date": "2026-01-12",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 835,
+        "employee_id": 1002,
+        "leave_type": "Study",
+        "start_date": "2025-08-09",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 836,
+        "employee_id": 1082,
+        "leave_type": "Emergency",
+        "start_date": "2024-09-01",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 837,
+        "employee_id": 1071,
+        "leave_type": "Annual",
+        "start_date": "2024-08-07",
+        "days": 7,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 838,
+        "employee_id": 1054,
+        "leave_type": "Emergency",
+        "start_date": "2026-02-05",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 839,
+        "employee_id": 1059,
+        "leave_type": "Maternity",
+        "start_date": "2024-11-26",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 840,
+        "employee_id": 1026,
+        "leave_type": "Maternity",
+        "start_date": "2025-11-15",
+        "days": 8,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 841,
+        "employee_id": 1042,
+        "leave_type": "Study",
+        "start_date": "2024-02-08",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 842,
+        "employee_id": 1090,
+        "leave_type": "Annual",
+        "start_date": "2024-08-17",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 843,
+        "employee_id": 1053,
+        "leave_type": "Study",
+        "start_date": "2024-03-30",
+        "days": 10,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 844,
+        "employee_id": 1054,
+        "leave_type": "Annual",
+        "start_date": "2025-10-15",
+        "days": 1,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 845,
+        "employee_id": 1002,
+        "leave_type": "Emergency",
+        "start_date": "2024-06-17",
+        "days": 10,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 846,
+        "employee_id": 1088,
+        "leave_type": "Maternity",
+        "start_date": "2024-11-04",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 847,
+        "employee_id": 1025,
+        "leave_type": "Sick",
+        "start_date": "2025-08-05",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 848,
+        "employee_id": 1092,
+        "leave_type": "Study",
+        "start_date": "2024-08-20",
+        "days": 6,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 849,
+        "employee_id": 1016,
+        "leave_type": "Maternity",
+        "start_date": "2025-10-04",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 850,
+        "employee_id": 1087,
+        "leave_type": "Maternity",
+        "start_date": "2025-11-10",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 851,
+        "employee_id": 1067,
+        "leave_type": "Annual",
+        "start_date": "2026-04-05",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 852,
+        "employee_id": 1043,
+        "leave_type": "Study",
+        "start_date": "2025-09-10",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 853,
+        "employee_id": 1091,
+        "leave_type": "Emergency",
+        "start_date": "2024-07-13",
+        "days": 7,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 854,
+        "employee_id": 1091,
+        "leave_type": "Study",
+        "start_date": "2025-06-19",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 855,
+        "employee_id": 1071,
+        "leave_type": "Emergency",
+        "start_date": "2024-01-28",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 856,
+        "employee_id": 1025,
+        "leave_type": "Maternity",
+        "start_date": "2025-07-16",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 857,
+        "employee_id": 1068,
+        "leave_type": "Annual",
+        "start_date": "2025-05-05",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 858,
+        "employee_id": 1030,
+        "leave_type": "Annual",
+        "start_date": "2024-10-04",
+        "days": 8,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 859,
+        "employee_id": 1071,
+        "leave_type": "Maternity",
+        "start_date": "2024-01-10",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 860,
+        "employee_id": 1085,
+        "leave_type": "Annual",
+        "start_date": "2025-11-23",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 861,
+        "employee_id": 1091,
+        "leave_type": "Annual",
+        "start_date": "2025-12-02",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 862,
+        "employee_id": 1031,
+        "leave_type": "Annual",
+        "start_date": "2024-09-12",
+        "days": 1,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 863,
+        "employee_id": 1086,
+        "leave_type": "Annual",
+        "start_date": "2026-07-20",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 864,
+        "employee_id": 1047,
+        "leave_type": "Annual",
+        "start_date": "2024-11-07",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 865,
+        "employee_id": 1036,
+        "leave_type": "Study",
+        "start_date": "2025-03-20",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 866,
+        "employee_id": 1069,
+        "leave_type": "Sick",
+        "start_date": "2024-11-10",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 867,
+        "employee_id": 1040,
+        "leave_type": "Sick",
+        "start_date": "2026-04-21",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 868,
+        "employee_id": 1049,
+        "leave_type": "Study",
+        "start_date": "2026-01-11",
+        "days": 7,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 869,
+        "employee_id": 1028,
+        "leave_type": "Sick",
+        "start_date": "2024-08-13",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 870,
+        "employee_id": 1022,
+        "leave_type": "Emergency",
+        "start_date": "2024-09-09",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 871,
+        "employee_id": 1067,
+        "leave_type": "Emergency",
+        "start_date": "2026-07-08",
+        "days": 1,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 872,
+        "employee_id": 1059,
+        "leave_type": "Emergency",
+        "start_date": "2026-02-16",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 873,
+        "employee_id": 1052,
+        "leave_type": "Sick",
+        "start_date": "2024-09-01",
+        "days": 6,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 874,
+        "employee_id": 1020,
+        "leave_type": "Emergency",
+        "start_date": "2026-02-14",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 875,
+        "employee_id": 1028,
+        "leave_type": "Sick",
+        "start_date": "2025-05-31",
+        "days": 7,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 876,
+        "employee_id": 1021,
+        "leave_type": "Study",
+        "start_date": "2026-07-27",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 877,
+        "employee_id": 1017,
+        "leave_type": "Emergency",
+        "start_date": "2026-06-01",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 878,
+        "employee_id": 1019,
+        "leave_type": "Annual",
+        "start_date": "2024-05-14",
+        "days": 1,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 879,
+        "employee_id": 1052,
+        "leave_type": "Annual",
+        "start_date": "2024-06-25",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 880,
+        "employee_id": 1079,
+        "leave_type": "Emergency",
+        "start_date": "2025-05-21",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 881,
+        "employee_id": 1063,
+        "leave_type": "Emergency",
+        "start_date": "2024-09-28",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 882,
+        "employee_id": 1086,
+        "leave_type": "Maternity",
+        "start_date": "2024-02-28",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 883,
+        "employee_id": 1025,
+        "leave_type": "Emergency",
+        "start_date": "2025-10-21",
+        "days": 7,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 884,
+        "employee_id": 1013,
+        "leave_type": "Maternity",
+        "start_date": "2025-09-23",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 885,
+        "employee_id": 1074,
+        "leave_type": "Sick",
+        "start_date": "2025-09-12",
+        "days": 3,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 886,
+        "employee_id": 1027,
+        "leave_type": "Annual",
+        "start_date": "2025-08-06",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 887,
+        "employee_id": 1022,
+        "leave_type": "Study",
+        "start_date": "2026-01-15",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 888,
+        "employee_id": 1042,
+        "leave_type": "Maternity",
+        "start_date": "2025-10-07",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 889,
+        "employee_id": 1020,
+        "leave_type": "Emergency",
+        "start_date": "2024-08-31",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 890,
+        "employee_id": 1051,
+        "leave_type": "Maternity",
+        "start_date": "2025-01-17",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 891,
+        "employee_id": 1085,
+        "leave_type": "Study",
+        "start_date": "2025-10-08",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 892,
+        "employee_id": 1052,
+        "leave_type": "Emergency",
+        "start_date": "2024-12-20",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 893,
+        "employee_id": 1037,
+        "leave_type": "Emergency",
+        "start_date": "2026-07-15",
+        "days": 8,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 894,
+        "employee_id": 1054,
+        "leave_type": "Study",
+        "start_date": "2025-02-08",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 895,
+        "employee_id": 1076,
+        "leave_type": "Annual",
+        "start_date": "2024-07-01",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 896,
+        "employee_id": 1097,
+        "leave_type": "Sick",
+        "start_date": "2025-03-17",
+        "days": 2,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 897,
+        "employee_id": 1030,
+        "leave_type": "Maternity",
+        "start_date": "2025-04-18",
+        "days": 7,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 898,
+        "employee_id": 1079,
+        "leave_type": "Maternity",
+        "start_date": "2024-06-30",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 899,
+        "employee_id": 1100,
+        "leave_type": "Sick",
+        "start_date": "2024-05-20",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 900,
+        "employee_id": 1073,
+        "leave_type": "Maternity",
+        "start_date": "2025-10-08",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 901,
+        "employee_id": 1053,
+        "leave_type": "Annual",
+        "start_date": "2025-02-10",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 902,
+        "employee_id": 1072,
+        "leave_type": "Sick",
+        "start_date": "2026-03-12",
+        "days": 7,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 903,
+        "employee_id": 1061,
+        "leave_type": "Maternity",
+        "start_date": "2025-12-27",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 904,
+        "employee_id": 1009,
+        "leave_type": "Maternity",
+        "start_date": "2024-12-19",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 905,
+        "employee_id": 1093,
+        "leave_type": "Study",
+        "start_date": "2024-11-08",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 906,
+        "employee_id": 1015,
+        "leave_type": "Sick",
+        "start_date": "2024-02-06",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 907,
+        "employee_id": 1025,
+        "leave_type": "Emergency",
+        "start_date": "2024-03-06",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 908,
+        "employee_id": 1095,
+        "leave_type": "Emergency",
+        "start_date": "2025-05-04",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 909,
+        "employee_id": 1079,
+        "leave_type": "Study",
+        "start_date": "2024-07-19",
+        "days": 10,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 910,
+        "employee_id": 1019,
+        "leave_type": "Sick",
+        "start_date": "2025-06-08",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 911,
+        "employee_id": 1091,
+        "leave_type": "Maternity",
+        "start_date": "2024-05-21",
+        "days": 2,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 912,
+        "employee_id": 1073,
+        "leave_type": "Maternity",
+        "start_date": "2024-03-19",
+        "days": 8,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 913,
+        "employee_id": 1020,
+        "leave_type": "Study",
+        "start_date": "2025-11-20",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 914,
+        "employee_id": 1015,
+        "leave_type": "Maternity",
+        "start_date": "2025-06-25",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 915,
+        "employee_id": 1006,
+        "leave_type": "Maternity",
+        "start_date": "2024-09-19",
+        "days": 3,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 916,
+        "employee_id": 1012,
+        "leave_type": "Sick",
+        "start_date": "2025-12-27",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 917,
+        "employee_id": 1037,
+        "leave_type": "Study",
+        "start_date": "2024-01-21",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 918,
+        "employee_id": 1065,
+        "leave_type": "Emergency",
+        "start_date": "2024-06-18",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 919,
+        "employee_id": 1060,
+        "leave_type": "Study",
+        "start_date": "2024-06-22",
+        "days": 6,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 920,
+        "employee_id": 1038,
+        "leave_type": "Annual",
+        "start_date": "2024-05-09",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 921,
+        "employee_id": 1029,
+        "leave_type": "Study",
+        "start_date": "2026-07-04",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 922,
+        "employee_id": 1038,
+        "leave_type": "Sick",
+        "start_date": "2025-06-07",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 923,
+        "employee_id": 1015,
+        "leave_type": "Study",
+        "start_date": "2026-05-17",
+        "days": 8,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 924,
+        "employee_id": 1012,
+        "leave_type": "Maternity",
+        "start_date": "2025-01-01",
+        "days": 1,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 925,
+        "employee_id": 1009,
+        "leave_type": "Emergency",
+        "start_date": "2024-02-13",
+        "days": 3,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 926,
+        "employee_id": 1099,
+        "leave_type": "Maternity",
+        "start_date": "2026-06-23",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 927,
+        "employee_id": 1093,
+        "leave_type": "Emergency",
+        "start_date": "2025-06-12",
+        "days": 3,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 928,
+        "employee_id": 1052,
+        "leave_type": "Study",
+        "start_date": "2024-08-21",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 929,
+        "employee_id": 1040,
+        "leave_type": "Sick",
+        "start_date": "2026-03-17",
+        "days": 9,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 930,
+        "employee_id": 1015,
+        "leave_type": "Study",
+        "start_date": "2024-02-18",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 931,
+        "employee_id": 1097,
+        "leave_type": "Maternity",
+        "start_date": "2024-03-07",
+        "days": 8,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 932,
+        "employee_id": 1013,
+        "leave_type": "Annual",
+        "start_date": "2024-09-13",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 933,
+        "employee_id": 1093,
+        "leave_type": "Emergency",
+        "start_date": "2024-07-19",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 934,
+        "employee_id": 1059,
+        "leave_type": "Annual",
+        "start_date": "2024-12-03",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 935,
+        "employee_id": 1002,
+        "leave_type": "Annual",
+        "start_date": "2025-03-05",
+        "days": 3,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 936,
+        "employee_id": 1010,
+        "leave_type": "Sick",
+        "start_date": "2026-07-14",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 937,
+        "employee_id": 1056,
+        "leave_type": "Emergency",
+        "start_date": "2024-10-31",
+        "days": 7,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 938,
+        "employee_id": 1016,
+        "leave_type": "Maternity",
+        "start_date": "2025-12-02",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 939,
+        "employee_id": 1062,
+        "leave_type": "Sick",
+        "start_date": "2024-12-02",
+        "days": 1,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 940,
+        "employee_id": 1034,
+        "leave_type": "Emergency",
+        "start_date": "2025-05-16",
+        "days": 3,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 941,
+        "employee_id": 1067,
+        "leave_type": "Maternity",
+        "start_date": "2024-01-30",
+        "days": 2,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 942,
+        "employee_id": 1008,
+        "leave_type": "Annual",
+        "start_date": "2025-10-30",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 943,
+        "employee_id": 1095,
+        "leave_type": "Study",
+        "start_date": "2026-01-14",
+        "days": 3,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 944,
+        "employee_id": 1062,
+        "leave_type": "Annual",
+        "start_date": "2024-03-15",
+        "days": 7,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 945,
+        "employee_id": 1020,
+        "leave_type": "Annual",
+        "start_date": "2025-12-04",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 946,
+        "employee_id": 1035,
+        "leave_type": "Study",
+        "start_date": "2025-01-20",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 947,
+        "employee_id": 1044,
+        "leave_type": "Sick",
+        "start_date": "2024-12-11",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 948,
+        "employee_id": 1044,
+        "leave_type": "Maternity",
+        "start_date": "2025-04-07",
+        "days": 3,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 949,
+        "employee_id": 1086,
+        "leave_type": "Study",
+        "start_date": "2024-06-27",
+        "days": 6,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 950,
+        "employee_id": 1031,
+        "leave_type": "Study",
+        "start_date": "2025-04-05",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 951,
+        "employee_id": 1085,
+        "leave_type": "Annual",
+        "start_date": "2025-04-01",
+        "days": 6,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 952,
+        "employee_id": 1059,
+        "leave_type": "Maternity",
+        "start_date": "2024-07-15",
+        "days": 3,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 953,
+        "employee_id": 1085,
+        "leave_type": "Annual",
+        "start_date": "2025-03-09",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 954,
+        "employee_id": 1095,
+        "leave_type": "Annual",
+        "start_date": "2025-04-09",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 955,
+        "employee_id": 1057,
+        "leave_type": "Study",
+        "start_date": "2025-03-10",
+        "days": 9,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 956,
+        "employee_id": 1064,
+        "leave_type": "Emergency",
+        "start_date": "2025-03-09",
+        "days": 8,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 957,
+        "employee_id": 1094,
+        "leave_type": "Annual",
+        "start_date": "2026-07-18",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 958,
+        "employee_id": 1034,
+        "leave_type": "Maternity",
+        "start_date": "2024-08-05",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 959,
+        "employee_id": 1036,
+        "leave_type": "Annual",
+        "start_date": "2024-03-19",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 960,
+        "employee_id": 1075,
+        "leave_type": "Maternity",
+        "start_date": "2025-10-10",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 961,
+        "employee_id": 1039,
+        "leave_type": "Emergency",
+        "start_date": "2026-01-25",
+        "days": 5,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 962,
+        "employee_id": 1090,
+        "leave_type": "Emergency",
+        "start_date": "2024-10-10",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 963,
+        "employee_id": 1071,
+        "leave_type": "Emergency",
+        "start_date": "2024-01-31",
+        "days": 7,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 964,
+        "employee_id": 1067,
+        "leave_type": "Annual",
+        "start_date": "2026-07-10",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 965,
+        "employee_id": 1067,
+        "leave_type": "Sick",
+        "start_date": "2025-12-11",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 966,
+        "employee_id": 1010,
+        "leave_type": "Study",
+        "start_date": "2024-05-17",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 967,
+        "employee_id": 1006,
+        "leave_type": "Study",
+        "start_date": "2024-10-07",
+        "days": 8,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 968,
+        "employee_id": 1038,
+        "leave_type": "Emergency",
+        "start_date": "2025-06-22",
+        "days": 7,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 969,
+        "employee_id": 1078,
+        "leave_type": "Maternity",
+        "start_date": "2026-07-25",
+        "days": 10,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 970,
+        "employee_id": 1073,
+        "leave_type": "Sick",
+        "start_date": "2025-07-31",
+        "days": 4,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 971,
+        "employee_id": 1056,
+        "leave_type": "Annual",
+        "start_date": "2025-09-12",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 972,
+        "employee_id": 1036,
+        "leave_type": "Maternity",
+        "start_date": "2025-09-19",
+        "days": 6,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 973,
+        "employee_id": 1057,
+        "leave_type": "Emergency",
+        "start_date": "2024-12-29",
+        "days": 3,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 974,
+        "employee_id": 1016,
+        "leave_type": "Emergency",
+        "start_date": "2026-06-15",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 975,
+        "employee_id": 1047,
+        "leave_type": "Emergency",
+        "start_date": "2025-11-29",
+        "days": 1,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 976,
+        "employee_id": 1012,
+        "leave_type": "Maternity",
+        "start_date": "2024-01-08",
+        "days": 5,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 977,
+        "employee_id": 1077,
+        "leave_type": "Maternity",
+        "start_date": "2024-08-15",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 978,
+        "employee_id": 1060,
+        "leave_type": "Annual",
+        "start_date": "2024-08-09",
+        "days": 8,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 979,
+        "employee_id": 1038,
+        "leave_type": "Annual",
+        "start_date": "2025-04-24",
+        "days": 6,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 980,
+        "employee_id": 1089,
+        "leave_type": "Sick",
+        "start_date": "2025-02-18",
+        "days": 4,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 981,
+        "employee_id": 1018,
+        "leave_type": "Study",
+        "start_date": "2024-01-24",
+        "days": 6,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 982,
+        "employee_id": 1057,
+        "leave_type": "Maternity",
+        "start_date": "2025-02-12",
+        "days": 8,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 983,
+        "employee_id": 1051,
+        "leave_type": "Study",
+        "start_date": "2024-05-04",
+        "days": 3,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 984,
+        "employee_id": 1028,
+        "leave_type": "Emergency",
+        "start_date": "2025-12-21",
+        "days": 10,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 985,
+        "employee_id": 1057,
+        "leave_type": "Sick",
+        "start_date": "2024-10-10",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 986,
+        "employee_id": 1080,
+        "leave_type": "Study",
+        "start_date": "2024-02-23",
+        "days": 10,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 987,
+        "employee_id": 1057,
+        "leave_type": "Emergency",
+        "start_date": "2025-11-02",
+        "days": 4,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 988,
+        "employee_id": 1054,
+        "leave_type": "Sick",
+        "start_date": "2025-12-01",
+        "days": 7,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 989,
+        "employee_id": 1062,
+        "leave_type": "Maternity",
+        "start_date": "2025-09-30",
+        "days": 8,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 990,
+        "employee_id": 1089,
+        "leave_type": "Study",
+        "start_date": "2025-07-11",
+        "days": 10,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 991,
+        "employee_id": 1032,
+        "leave_type": "Sick",
+        "start_date": "2026-06-11",
+        "days": 6,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 992,
+        "employee_id": 1051,
+        "leave_type": "Maternity",
+        "start_date": "2025-04-21",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 993,
+        "employee_id": 1053,
+        "leave_type": "Study",
+        "start_date": "2024-06-01",
+        "days": 10,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 994,
+        "employee_id": 1024,
+        "leave_type": "Annual",
+        "start_date": "2026-02-07",
+        "days": 6,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 995,
+        "employee_id": 1037,
+        "leave_type": "Maternity",
+        "start_date": "2024-11-11",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 996,
+        "employee_id": 1095,
+        "leave_type": "Sick",
+        "start_date": "2025-07-07",
+        "days": 9,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 997,
+        "employee_id": 1063,
+        "leave_type": "Maternity",
+        "start_date": "2025-08-09",
+        "days": 5,
+        "status": "Cancelled"
+    },
+    {
+        "leave_id": 998,
+        "employee_id": 1033,
+        "leave_type": "Sick",
+        "start_date": "2025-09-09",
+        "days": 8,
+        "status": "Approved"
+    },
+    {
+        "leave_id": 999,
+        "employee_id": 1021,
+        "leave_type": "Annual",
+        "start_date": "2026-02-06",
+        "days": 5,
+        "status": "Rejected"
+    },
+    {
+        "leave_id": 1000,
+        "employee_id": 1068,
+        "leave_type": "Maternity",
+        "start_date": "2024-09-26",
+        "days": 8,
+        "status": "Approved"
+    }
+]

@@ -1,0 +1,11 @@
+{
+    "annual_leave_days": 21,
+    "carry_forward_limit": 5,
+    "minimum_notice_days": 7,
+    "maximum_consecutive_days": 15,
+    "approval_rules": {
+        "less_than_10_days": "Manager",
+        "10_days_or_more": "HR"
+    },
+    "team_availability_threshold": 60
+}

@@ -1,0 +1,52 @@
+[
+    {
+        "department": "Finance",
+        "minimum_staff": 5,
+        "current_staff": 15
+    },
+    {
+        "department": "Information Technology",
+        "minimum_staff": 7,
+        "current_staff": 16
+    },
+    {
+        "department": "Human Resources",
+        "minimum_staff": 7,
+        "current_staff": 16
+    },
+    {
+        "department": "Marketing",
+        "minimum_staff": 3,
+        "current_staff": 18
+    },
+    {
+        "department": "Operations",
+        "minimum_staff": 7,
+        "current_staff": 9
+    },
+    {
+        "department": "Sales",
+        "minimum_staff": 5,
+        "current_staff": 20
+    },
+    {
+        "department": "Legal",
+        "minimum_staff": 4,
+        "current_staff": 18
+    },
+    {
+        "department": "Procurement",
+        "minimum_staff": 4,
+        "current_staff": 14
+    },
+    {
+        "department": "Customer Support",
+        "minimum_staff": 5,
+        "current_staff": 11
+    },
+    {
+        "department": "Administration",
+        "minimum_staff": 3,
+        "current_staff": 11
+    }
+]

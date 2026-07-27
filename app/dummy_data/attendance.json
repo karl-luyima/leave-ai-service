@@ -1,0 +1,602 @@
+[
+    {
+        "employee_id": 1001,
+        "late_days": 5,
+        "absent_days": 1,
+        "attendance_rate": 97.28
+    },
+    {
+        "employee_id": 1002,
+        "late_days": 9,
+        "absent_days": 4,
+        "attendance_rate": 95.49
+    },
+    {
+        "employee_id": 1003,
+        "late_days": 9,
+        "absent_days": 1,
+        "attendance_rate": 92.66
+    },
+    {
+        "employee_id": 1004,
+        "late_days": 3,
+        "absent_days": 3,
+        "attendance_rate": 89.17
+    },
+    {
+        "employee_id": 1005,
+        "late_days": 8,
+        "absent_days": 0,
+        "attendance_rate": 95.05
+    },
+    {
+        "employee_id": 1006,
+        "late_days": 5,
+        "absent_days": 5,
+        "attendance_rate": 95.15
+    },
+    {
+        "employee_id": 1007,
+        "late_days": 2,
+        "absent_days": 3,
+        "attendance_rate": 92.15
+    },
+    {
+        "employee_id": 1008,
+        "late_days": 0,
+        "absent_days": 4,
+        "attendance_rate": 97.93
+    },
+    {
+        "employee_id": 1009,
+        "late_days": 8,
+        "absent_days": 3,
+        "attendance_rate": 97.86
+    },
+    {
+        "employee_id": 1010,
+        "late_days": 2,
+        "absent_days": 1,
+        "attendance_rate": 87.2
+    },
+    {
+        "employee_id": 1011,
+        "late_days": 10,
+        "absent_days": 1,
+        "attendance_rate": 85.42
+    },
+    {
+        "employee_id": 1012,
+        "late_days": 3,
+        "absent_days": 3,
+        "attendance_rate": 96.63
+    },
+    {
+        "employee_id": 1013,
+        "late_days": 10,
+        "absent_days": 2,
+        "attendance_rate": 94.53
+    },
+    {
+        "employee_id": 1014,
+        "late_days": 2,
+        "absent_days": 1,
+        "attendance_rate": 90.11
+    },
+    {
+        "employee_id": 1015,
+        "late_days": 0,
+        "absent_days": 4,
+        "attendance_rate": 85.56
+    },
+    {
+        "employee_id": 1016,
+        "late_days": 5,
+        "absent_days": 2,
+        "attendance_rate": 94.97
+    },
+    {
+        "employee_id": 1017,
+        "late_days": 6,
+        "absent_days": 5,
+        "attendance_rate": 97.17
+    },
+    {
+        "employee_id": 1018,
+        "late_days": 7,
+        "absent_days": 2,
+        "attendance_rate": 93.81
+    },
+    {
+        "employee_id": 1019,
+        "late_days": 8,
+        "absent_days": 1,
+        "attendance_rate": 86.78
+    },
+    {
+        "employee_id": 1020,
+        "late_days": 3,
+        "absent_days": 0,
+        "attendance_rate": 89.95
+    },
+    {
+        "employee_id": 1021,
+        "late_days": 8,
+        "absent_days": 2,
+        "attendance_rate": 86.82
+    },
+    {
+        "employee_id": 1022,
+        "late_days": 3,
+        "absent_days": 3,
+        "attendance_rate": 99.67
+    },
+    {
+        "employee_id": 1023,
+        "late_days": 10,
+        "absent_days": 2,
+        "attendance_rate": 90.02
+    },
+    {
+        "employee_id": 1024,
+        "late_days": 0,
+        "absent_days": 4,
+        "attendance_rate": 86.27
+    },
+    {
+        "employee_id": 1025,
+        "late_days": 0,
+        "absent_days": 5,
+        "attendance_rate": 86.09
+    },
+    {
+        "employee_id": 1026,
+        "late_days": 0,
+        "absent_days": 4,
+        "attendance_rate": 98.17
+    },
+    {
+        "employee_id": 1027,
+        "late_days": 7,
+        "absent_days": 5,
+        "attendance_rate": 99.57
+    },
+    {
+        "employee_id": 1028,
+        "late_days": 4,
+        "absent_days": 2,
+        "attendance_rate": 89.5
+    },
+    {
+        "employee_id": 1029,
+        "late_days": 0,
+        "absent_days": 0,
+        "attendance_rate": 86.44
+    },
+    {
+        "employee_id": 1030,
+        "late_days": 7,
+        "absent_days": 2,
+        "attendance_rate": 86.67
+    },
+    {
+        "employee_id": 1031,
+        "late_days": 1,
+        "absent_days": 0,
+        "attendance_rate": 99.89
+    },
+    {
+        "employee_id": 1032,
+        "late_days": 9,
+        "absent_days": 2,
+        "attendance_rate": 89.83
+    },
+    {
+        "employee_id": 1033,
+        "late_days": 0,
+        "absent_days": 3,
+        "attendance_rate": 99.11
+    },
+    {
+        "employee_id": 1034,
+        "late_days": 2,
+        "absent_days": 2,
+        "attendance_rate": 86.13
+    },
+    {
+        "employee_id": 1035,
+        "late_days": 3,
+        "absent_days": 2,
+        "attendance_rate": 88.5
+    },
+    {
+        "employee_id": 1036,
+        "late_days": 6,
+        "absent_days": 1,
+        "attendance_rate": 86.92
+    },
+    {
+        "employee_id": 1037,
+        "late_days": 9,
+        "absent_days": 1,
+        "attendance_rate": 96.48
+    },
+    {
+        "employee_id": 1038,
+        "late_days": 3,
+        "absent_days": 3,
+        "attendance_rate": 88.6
+    },
+    {
+        "employee_id": 1039,
+        "late_days": 10,
+        "absent_days": 4,
+        "attendance_rate": 90.44
+    },
+    {
+        "employee_id": 1040,
+        "late_days": 0,
+        "absent_days": 0,
+        "attendance_rate": 96.63
+    },
+    {
+        "employee_id": 1041,
+        "late_days": 1,
+        "absent_days": 0,
+        "attendance_rate": 86.28
+    },
+    {
+        "employee_id": 1042,
+        "late_days": 5,
+        "absent_days": 4,
+        "attendance_rate": 98.86
+    },
+    {
+        "employee_id": 1043,
+        "late_days": 2,
+        "absent_days": 1,
+        "attendance_rate": 97.81
+    },
+    {
+        "employee_id": 1044,
+        "late_days": 8,
+        "absent_days": 2,
+        "attendance_rate": 93.0
+    },
+    {
+        "employee_id": 1045,
+        "late_days": 6,
+        "absent_days": 2,
+        "attendance_rate": 88.09
+    },
+    {
+        "employee_id": 1046,
+        "late_days": 4,
+        "absent_days": 4,
+        "attendance_rate": 91.35
+    },
+    {
+        "employee_id": 1047,
+        "late_days": 5,
+        "absent_days": 5,
+        "attendance_rate": 91.22
+    },
+    {
+        "employee_id": 1048,
+        "late_days": 2,
+        "absent_days": 2,
+        "attendance_rate": 93.92
+    },
+    {
+        "employee_id": 1049,
+        "late_days": 3,
+        "absent_days": 3,
+        "attendance_rate": 94.4
+    },
+    {
+        "employee_id": 1050,
+        "late_days": 4,
+        "absent_days": 2,
+        "attendance_rate": 88.99
+    },
+    {
+        "employee_id": 1051,
+        "late_days": 2,
+        "absent_days": 3,
+        "attendance_rate": 99.87
+    },
+    {
+        "employee_id": 1052,
+        "late_days": 10,
+        "absent_days": 4,
+        "attendance_rate": 96.37
+    },
+    {
+        "employee_id": 1053,
+        "late_days": 10,
+        "absent_days": 1,
+        "attendance_rate": 91.02
+    },
+    {
+        "employee_id": 1054,
+        "late_days": 7,
+        "absent_days": 1,
+        "attendance_rate": 93.47
+    },
+    {
+        "employee_id": 1055,
+        "late_days": 6,
+        "absent_days": 2,
+        "attendance_rate": 86.02
+    },
+    {
+        "employee_id": 1056,
+        "late_days": 7,
+        "absent_days": 4,
+        "attendance_rate": 90.23
+    },
+    {
+        "employee_id": 1057,
+        "late_days": 6,
+        "absent_days": 5,
+        "attendance_rate": 93.98
+    },
+    {
+        "employee_id": 1058,
+        "late_days": 8,
+        "absent_days": 5,
+        "attendance_rate": 97.85
+    },
+    {
+        "employee_id": 1059,
+        "late_days": 0,
+        "absent_days": 4,
+        "attendance_rate": 100.0
+    },
+    {
+        "employee_id": 1060,
+        "late_days": 8,
+        "absent_days": 4,
+        "attendance_rate": 90.74
+    },
+    {
+        "employee_id": 1061,
+        "late_days": 1,
+        "absent_days": 2,
+        "attendance_rate": 91.82
+    },
+    {
+        "employee_id": 1062,
+        "late_days": 4,
+        "absent_days": 5,
+        "attendance_rate": 87.17
+    },
+    {
+        "employee_id": 1063,
+        "late_days": 5,
+        "absent_days": 5,
+        "attendance_rate": 88.16
+    },
+    {
+        "employee_id": 1064,
+        "late_days": 6,
+        "absent_days": 2,
+        "attendance_rate": 97.18
+    },
+    {
+        "employee_id": 1065,
+        "late_days": 3,
+        "absent_days": 5,
+        "attendance_rate": 92.6
+    },
+    {
+        "employee_id": 1066,
+        "late_days": 10,
+        "absent_days": 3,
+        "attendance_rate": 86.59
+    },
+    {
+        "employee_id": 1067,
+        "late_days": 2,
+        "absent_days": 1,
+        "attendance_rate": 94.82
+    },
+    {
+        "employee_id": 1068,
+        "late_days": 8,
+        "absent_days": 4,
+        "attendance_rate": 93.09
+    },
+    {
+        "employee_id": 1069,
+        "late_days": 2,
+        "absent_days": 0,
+        "attendance_rate": 95.82
+    },
+    {
+        "employee_id": 1070,
+        "late_days": 8,
+        "absent_days": 5,
+        "attendance_rate": 92.81
+    },
+    {
+        "employee_id": 1071,
+        "late_days": 2,
+        "absent_days": 0,
+        "attendance_rate": 94.4
+    },
+    {
+        "employee_id": 1072,
+        "late_days": 0,
+        "absent_days": 3,
+        "attendance_rate": 91.57
+    },
+    {
+        "employee_id": 1073,
+        "late_days": 7,
+        "absent_days": 1,
+        "attendance_rate": 91.05
+    },
+    {
+        "employee_id": 1074,
+        "late_days": 6,
+        "absent_days": 4,
+        "attendance_rate": 98.22
+    },
+    {
+        "employee_id": 1075,
+        "late_days": 9,
+        "absent_days": 0,
+        "attendance_rate": 89.67
+    },
+    {
+        "employee_id": 1076,
+        "late_days": 0,
+        "absent_days": 2,
+        "attendance_rate": 94.95
+    },
+    {
+        "employee_id": 1077,
+        "late_days": 9,
+        "absent_days": 2,
+        "attendance_rate": 85.85
+    },
+    {
+        "employee_id": 1078,
+        "late_days": 7,
+        "absent_days": 3,
+        "attendance_rate": 99.03
+    },
+    {
+        "employee_id": 1079,
+        "late_days": 4,
+        "absent_days": 3,
+        "attendance_rate": 96.83
+    },
+    {
+        "employee_id": 1080,
+        "late_days": 9,
+        "absent_days": 2,
+        "attendance_rate": 92.58
+    },
+    {
+        "employee_id": 1081,
+        "late_days": 7,
+        "absent_days": 4,
+        "attendance_rate": 99.44
+    },
+    {
+        "employee_id": 1082,
+        "late_days": 7,
+        "absent_days": 3,
+        "attendance_rate": 99.49
+    },
+    {
+        "employee_id": 1083,
+        "late_days": 2,
+        "absent_days": 4,
+        "attendance_rate": 92.68
+    },
+    {
+        "employee_id": 1084,
+        "late_days": 10,
+        "absent_days": 0,
+        "attendance_rate": 94.78
+    },
+    {
+        "employee_id": 1085,
+        "late_days": 2,
+        "absent_days": 5,
+        "attendance_rate": 89.99
+    },
+    {
+        "employee_id": 1086,
+        "late_days": 8,
+        "absent_days": 2,
+        "attendance_rate": 92.43
+    },
+    {
+        "employee_id": 1087,
+        "late_days": 3,
+        "absent_days": 1,
+        "attendance_rate": 98.89
+    },
+    {
+        "employee_id": 1088,
+        "late_days": 1,
+        "absent_days": 5,
+        "attendance_rate": 94.79
+    },
+    {
+        "employee_id": 1089,
+        "late_days": 10,
+        "absent_days": 1,
+        "attendance_rate": 96.92
+    },
+    {
+        "employee_id": 1090,
+        "late_days": 7,
+        "absent_days": 3,
+        "attendance_rate": 88.1
+    },
+    {
+        "employee_id": 1091,
+        "late_days": 0,
+        "absent_days": 0,
+        "attendance_rate": 87.26
+    },
+    {
+        "employee_id": 1092,
+        "late_days": 7,
+        "absent_days": 5,
+        "attendance_rate": 92.88
+    },
+    {
+        "employee_id": 1093,
+        "late_days": 8,
+        "absent_days": 2,
+        "attendance_rate": 99.11
+    },
+    {
+        "employee_id": 1094,
+        "late_days": 3,
+        "absent_days": 2,
+        "attendance_rate": 87.24
+    },
+    {
+        "employee_id": 1095,
+        "late_days": 3,
+        "absent_days": 3,
+        "attendance_rate": 95.39
+    },
+    {
+        "employee_id": 1096,
+        "late_days": 6,
+        "absent_days": 0,
+        "attendance_rate": 90.5
+    },
+    {
+        "employee_id": 1097,
+        "late_days": 7,
+        "absent_days": 1,
+        "attendance_rate": 93.92
+    },
+    {
+        "employee_id": 1098,
+        "late_days": 3,
+        "absent_days": 2,
+        "attendance_rate": 88.55
+    },
+    {
+        "employee_id": 1099,
+        "late_days": 0,
+        "absent_days": 2,
+        "attendance_rate": 85.1
+    },
+    {
+        "employee_id": 1100,
+        "late_days": 0,
+        "absent_days": 0,
+        "attendance_rate": 99.73
+    }
+]
