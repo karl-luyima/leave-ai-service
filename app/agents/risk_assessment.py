@@ -15,47 +15,26 @@ class RiskAssessmentAgent:
         context
     ):
 
+
+        history = context["leave_history"]
+
+        leave_request = context["leave_request"]
+
+        policies = context["policies"]
+
+
+
         result = self.risk_engine.analyze(
 
-            employee=context["employee"],
+            history,
 
-            attendance={
-                "attendance_rate": 100
-            },
+            leave_request["days_requested"],
 
-            history=context["leave_history"],
+            leave_request["leave_type"],
 
-            days_requested=context["leave_request"]["days_requested"]
+            policies
 
         )
 
 
-        risk_score = result["risk_score"]
-
-
-
-        if risk_score >= 60:
-
-            risk_level = "HIGH"
-
-
-        elif risk_score >= 30:
-
-            risk_level = "MEDIUM"
-
-
-        else:
-
-            risk_level = "LOW"
-
-
-
-        return {
-
-            "risk_score": risk_score,
-
-            "risk_level": risk_level,
-
-            "risks": result["risks"]
-
-        }
+        return result
