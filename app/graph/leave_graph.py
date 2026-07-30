@@ -48,7 +48,7 @@ def build_leave_graph(provider):
         )
 
         return {
-            "observation": result
+            "observation": result,
             "employee_id": result["employee"]["employee_id"]
         }
 
