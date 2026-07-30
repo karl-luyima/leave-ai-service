@@ -32,7 +32,8 @@ def build_leave_graph(provider):
     def observation_node(state):
 
         result = observation_agent.observe(
-            state["employee_id"]
+            state["employee_id"],
+            state["leave_request"]
         )
 
         return {
@@ -82,15 +83,18 @@ def build_leave_graph(provider):
         observation_node
     )
 
+
     graph.add_node(
         "reasoning",
         reasoning_node
     )
 
+
     graph.add_node(
         "decision",
         decision_node
     )
+
 
     graph.add_node(
         "action",
@@ -109,10 +113,12 @@ def build_leave_graph(provider):
         "reasoning"
     )
 
+
     graph.add_edge(
         "reasoning",
         "decision"
     )
+
 
     graph.add_edge(
         "decision",

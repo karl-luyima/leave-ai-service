@@ -12,7 +12,8 @@ class ObservationAgent:
 
     def observe(
         self,
-        employee_id=None
+        employee_id=None,
+        leave_request=None
     ):
 
         employee = self.provider.get_employee(
@@ -50,6 +51,9 @@ class ObservationAgent:
         return {
 
             "employee": employee,
+
+
+            "leave_request": leave_request,
 
 
             "leave_summary": {
