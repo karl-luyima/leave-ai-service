@@ -4,8 +4,11 @@ from app.graph.state import LeaveState
 
 from app.agents.observation_agent import ObservationAgent
 from app.agents.reasoning_agent import ReasoningAgent
+from app.agents.risk_assessment import RiskAssessmentAgent
 from app.agents.decision_agent import DecisionAgent
 from app.agents.action_agent import ActionAgent
+
+from app.agents.risk_engine import LeaveRiskEngine
 
 
 
@@ -18,6 +21,14 @@ def build_leave_graph(provider):
 
     reasoning_agent = ReasoningAgent()
 
+
+    risk_engine = LeaveRiskEngine()
+
+    risk_agent = RiskAssessmentAgent(
+        risk_engine
+    )
+
+
     decision_agent = DecisionAgent()
 
     action_agent = ActionAgent()
@@ -29,15 +40,16 @@ def build_leave_graph(provider):
     )
 
 
+
     def observation_node(state):
 
         result = observation_agent.observe(
-            state["employee_id"],
             state["leave_request"]
         )
 
         return {
             "observation": result
+            "employee_id": result["employee"]["employee_id"]
         }
 
 
@@ -54,10 +66,28 @@ def build_leave_graph(provider):
 
 
 
+    def risk_node(state):
+
+        result = risk_agent.assess(
+            {
+                **state["observation"],
+                **state["reasoning"]
+            }
+        )
+
+        return {
+            "risk": result
+        }
+
+
+
     def decision_node(state):
 
         result = decision_agent.decide(
-            state["reasoning"]
+            {
+                **state["reasoning"],
+                "risk": state["risk"]
+            }
         )
 
         return {
@@ -91,6 +121,12 @@ def build_leave_graph(provider):
 
 
     graph.add_node(
+        "risk",
+        risk_node
+    )
+
+
+    graph.add_node(
         "decision",
         decision_node
     )
@@ -108,6 +144,7 @@ def build_leave_graph(provider):
     )
 
 
+
     graph.add_edge(
         "observation",
         "reasoning"
@@ -116,6 +153,12 @@ def build_leave_graph(provider):
 
     graph.add_edge(
         "reasoning",
+        "risk"
+    )
+
+
+    graph.add_edge(
+        "risk",
         "decision"
     )
 

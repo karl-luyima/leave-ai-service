@@ -12,17 +12,12 @@ class ObservationAgent:
 
     def observe(
         self,
-        employee_id=None,
         leave_request=None
     ):
 
-        employee = self.provider.get_employee(
-            employee_id
-        )
+        employee = self.provider.get_employee()
 
-        leaves = self.provider.get_leave_history(
-            employee_id
-        )
+        leaves = self.provider.get_leave_history()
 
         policies = self.provider.get_policy()
 
@@ -34,6 +29,7 @@ class ObservationAgent:
             }
 
 
+
         pending = [
             leave
             for leave in leaves
@@ -41,11 +37,13 @@ class ObservationAgent:
         ]
 
 
+
         approved_days = sum(
             int(leave["total_leave_days"])
             for leave in leaves
             if leave["status"] == "Approved"
         )
+
 
 
         return {

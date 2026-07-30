@@ -37,17 +37,22 @@ class ReasoningAgent:
             )
 
 
+
         # Analyse previous leave history
         for leave in leaves:
 
             leave_days = int(
-                leave["total_leave_days"]
+                leave.get(
+                    "total_leave_days",
+                    0
+                )
             )
 
 
             observations.append(
                 f"Previous leave request of {leave_days} days is currently {leave['status']}."
             )
+
 
 
         # Analyse new leave request
@@ -90,12 +95,13 @@ class ReasoningAgent:
 
             "employee": employee,
 
-
             "leave_request": leave_request,
 
+            "leave_history": leaves,
+
+            "policies": policies,
 
             "observations": observations,
-
 
             "analysis": (
                 "Leave request analysed against "

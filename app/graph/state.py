@@ -1,6 +1,7 @@
 from typing import TypedDict
 
 
+
 class LeaveState(TypedDict):
 
     employee_id: int | None
@@ -10,6 +11,8 @@ class LeaveState(TypedDict):
     observation: dict | None
 
     reasoning: dict | None
+
+    risk: dict | None
 
     decision: dict | None
 

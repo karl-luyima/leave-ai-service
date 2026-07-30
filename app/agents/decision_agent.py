@@ -3,11 +3,16 @@ class DecisionAgent:
 
     def decide(
         self,
-        reasoning
+        context
     ):
 
 
-        observations = reasoning["observations"]
+        observations = context["observations"]
+
+        risk = context.get(
+            "risk",
+            {}
+        )
 
 
         decision = "APPROVE"
@@ -15,35 +20,36 @@ class DecisionAgent:
         confidence = 0.85
 
 
+
+        risk_level = risk.get(
+            "risk_level",
+            "LOW"
+        )
+
+
+        if risk_level == "HIGH":
+
+            decision = "REVIEW"
+
+            confidence = 0.9
+
+
+
+        elif risk_level == "MEDIUM":
+
+            decision = "REVIEW"
+
+            confidence = 0.75
+
+
+
         for item in observations:
 
-
-            # Policy violation
             if "exceeds the allowed" in item:
 
                 decision = "REJECT"
 
-                confidence = 0.9
-
-
-
-            # Unknown leave type
-            elif "was not found in company policy" in item:
-
-                decision = "REVIEW"
-
-                confidence = 0.7
-
-
-
-            # Existing pending requests
-            elif "pending leave request" in item:
-
-                if decision != "REJECT":
-
-                    decision = "REVIEW"
-
-                    confidence = 0.6
+                confidence = 0.95
 
 
 
@@ -53,6 +59,18 @@ class DecisionAgent:
 
             "confidence": confidence,
 
-            "reason": observations
+            "risk_level": risk_level,
+
+            "risk_score": risk.get(
+                "risk_score",
+                0
+            ),
+
+            "reason": observations,
+
+            "risk_factors": risk.get(
+                "risks",
+                []
+            )
 
         }

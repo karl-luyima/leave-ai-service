@@ -3,6 +3,7 @@ from app.providers.interface import LeaveDataProvider
 from app.integrations.checkinpro.leave_service import LeaveService
 
 
+
 class CheckinProProvider(LeaveDataProvider):
 
 
@@ -12,89 +13,89 @@ class CheckinProProvider(LeaveDataProvider):
 
 
 
-    def get_employee(
-        self,
-        employee_id=None
-    ):
+    def get_employee(self):
 
         data = self.leave_service.get_leave_data()
 
+
         if not data:
+
             return None
 
 
+
         return {
+
             "employee_id": data["employee_id"],
+
             "name": data["name"]
+
         }
 
 
 
-    def get_leave_history(
-        self,
-        employee_id=None
-    ):
+    def get_leave_history(self):
 
         data = self.leave_service.get_leave_data()
 
+
         if not data:
+
             return []
 
 
-        return data["leaves"]
+
+        return data.get(
+            "leaves",
+            []
+        )
 
 
 
-    def get_leave_types(
-        self
-    ):
+    def get_leave_types(self):
 
         data = self.leave_service.get_leave_data()
 
+
         if not data:
+
             return []
 
 
-        return data["leave_types"]
+
+        return data.get(
+            "leave_types",
+            []
+        )
 
 
 
-    def get_attendance(
-        self,
-        employee_id=None
-    ):
-
-        # API currently does not provide attendance
+    def get_attendance(self):
 
         return None
 
 
 
-    def get_department(
-        self,
-        employee_id=None
-    ):
-
-        # API currently does not provide department
+    def get_department(self):
 
         return None
 
 
 
-    def get_leave_requests(
-        self,
-        employee_id=None
-    ):
+    def get_leave_requests(self):
 
         data = self.leave_service.get_leave_data()
 
+
         if not data:
+
             return []
+
 
 
         return [
             leave
-            for leave in data["leaves"]
+            for leave in data.get("leaves", [])
             if leave["status"] == "Pending"
         ]
 
@@ -104,18 +105,23 @@ class CheckinProProvider(LeaveDataProvider):
 
         data = self.leave_service.get_leave_data()
 
+
         if not data:
+
             return {}
+
 
 
         policies = {}
 
 
-        for leave_type in data["leave_types"]:
+
+        for leave_type in data.get("leave_types", []):
 
             policies[
                 leave_type["title"]
             ] = leave_type["days"]
+
 
 
         return policies

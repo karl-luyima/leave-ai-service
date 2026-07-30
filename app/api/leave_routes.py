@@ -20,8 +20,6 @@ leave_graph = build_leave_graph(
 
 class LeaveRequest(BaseModel):
 
-    employee_id: int
-
     leave_type: str
 
     days_requested: int
@@ -37,13 +35,15 @@ def evaluate_leave(
 
     result = leave_graph.invoke(
         {
-            "employee_id": request.employee_id,
+            "employee_id": None,
 
             "leave_request": request.dict(),
 
             "observation": None,
 
             "reasoning": None,
+
+            "risk": None,
 
             "decision": None,
 
