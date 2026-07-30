@@ -6,15 +6,15 @@ class DecisionAgent:
         context
     ):
 
-
         observations = context["observations"]
 
         risk = context["risk"]
 
 
+        confidence = 0.85
+
 
         if risk["risk_level"] == "HIGH":
-
 
             decision = "REJECT"
 
@@ -24,20 +24,25 @@ class DecisionAgent:
 
         elif risk["risk_level"] == "MEDIUM":
 
-
             decision = "REVIEW"
 
             confidence = 0.75
 
 
 
-        else:
+        elif len(risk["risks"]) > 0:
 
+            decision = "REVIEW"
+
+            confidence = 0.80
+
+
+
+        else:
 
             decision = "APPROVE"
 
             confidence = 0.85
-
 
 
 
@@ -55,8 +60,9 @@ class DecisionAgent:
 
             "risk_factors": risk["risks"],
 
-            "explanation":
+            "explanation": (
                 f"Decision made based on "
                 f"{risk['risk_level']} risk assessment."
+            )
 
         }
