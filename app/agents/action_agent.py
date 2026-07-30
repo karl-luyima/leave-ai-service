@@ -7,39 +7,58 @@ class ActionAgent:
     ):
 
 
-        action = None
+        decision_type = decision["decision"]
 
 
-        if decision["decision"] == "APPROVE":
+        if decision_type == "APPROVE":
 
-            action = (
-                "Notify HR that leave can proceed."
-            )
+            return {
+
+                "decision": decision_type,
+
+                "confidence": decision["confidence"],
+
+                "action": "Approve leave request.",
+
+                "notification": (
+                    "Notify HR and employee that the leave request "
+                    "has been approved."
+                )
+
+            }
 
 
-        elif decision["decision"] == "REVIEW":
+        elif decision_type == "REVIEW":
 
-            action = (
-                "Escalate request to HR for review."
-            )
+            return {
+
+                "decision": decision_type,
+
+                "confidence": decision["confidence"],
+
+                "action": "Send request for HR review.",
+
+                "notification": (
+                    "Notify HR that this leave request requires "
+                    "manual review."
+                )
+
+            }
 
 
         else:
 
-            action = (
-                "Reject request and notify employee."
-            )
+            return {
 
+                "decision": decision_type,
 
-        return {
+                "confidence": decision["confidence"],
 
-            "decision":
-                decision["decision"],
+                "action": "Reject leave request.",
 
-            "confidence":
-                decision["confidence"],
+                "notification": (
+                    "Notify employee that the leave request "
+                    "does not meet leave policy requirements."
+                )
 
-            "action":
-                action
-
-        }
+            }
