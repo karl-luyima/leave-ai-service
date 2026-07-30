@@ -1,38 +1,27 @@
 import os
-
 from dotenv import load_dotenv
 
 
 load_dotenv()
 
 
-
 class Settings:
 
-
-    DATA_PROVIDER = os.getenv(
-        "DATA_PROVIDER",
-        "database"
-    )
-
-
     CHECKINPRO_URL = os.getenv(
-        "CHECKINPRO_URL",
-        "http://localhost:9000"
+        "CHECKINPRO_URL"
     )
 
-
-    CHECKINPRO_API_KEY = os.getenv(
-        "CHECKINPRO_API_KEY",
-        "dummy_key"
+    CHECKINPRO_USERNAME = os.getenv(
+        "CHECKINPRO_USERNAME"
     )
 
-
-    MODEL_NAME = os.getenv(
-        "MODEL_NAME",
-        "none"
+    CHECKINPRO_PASSWORD = os.getenv(
+        "CHECKINPRO_PASSWORD"
     )
 
+    CHECKINPRO_COMPANY_EMAIL = os.getenv(
+        "CHECKINPRO_COMPANY_EMAIL"
+    )
 
 
 settings = Settings()

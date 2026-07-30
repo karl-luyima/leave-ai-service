@@ -1,100 +1,121 @@
 from app.providers.interface import LeaveDataProvider
 
-from app.integrations.checkinpro.employee_service import EmployeeService
 from app.integrations.checkinpro.leave_service import LeaveService
-from app.integrations.checkinpro.attendance_service import AttendanceService
 
 
-
-class CheckinProProvider(
-    LeaveDataProvider
-):
+class CheckinProProvider(LeaveDataProvider):
 
 
     def __init__(self):
 
-        self.employee_service = EmployeeService()
-
         self.leave_service = LeaveService()
-
-        self.attendance_service = AttendanceService()
 
 
 
     def get_employee(
         self,
-        employee_id
+        employee_id=None
     ):
 
-        return self.employee_service.get_employee(
-            employee_id
-        )
+        data = self.leave_service.get_leave_data()
+
+        if not data:
+            return None
+
+
+        return {
+            "employee_id": data["employee_id"],
+            "name": data["name"]
+        }
 
 
 
     def get_leave_history(
         self,
-        employee_id
+        employee_id=None
     ):
 
-        return self.leave_service.get_leave_history(
-            employee_id
-        )
+        data = self.leave_service.get_leave_data()
+
+        if not data:
+            return []
+
+
+        return data["leaves"]
+
+
+
+    def get_leave_types(
+        self
+    ):
+
+        data = self.leave_service.get_leave_data()
+
+        if not data:
+            return []
+
+
+        return data["leave_types"]
 
 
 
     def get_attendance(
         self,
-        employee_id
+        employee_id=None
     ):
 
-        return self.attendance_service.get_attendance(
-            employee_id
-        )
+        # API currently does not provide attendance
+
+        return None
 
 
 
     def get_department(
         self,
-        employee_id
+        employee_id=None
     ):
 
-        employee = self.get_employee(
-            employee_id
-        )
+        # API currently does not provide department
 
-
-        if not employee:
-            return None
-
-
-        return employee["department"]
+        return None
 
 
 
     def get_leave_requests(
         self,
-        employee_id
+        employee_id=None
     ):
 
-        # Future CheckinPro endpoint
-        # Example:
-        # /employees/{id}/leave-requests
+        data = self.leave_service.get_leave_data()
 
-        return []
+        if not data:
+            return []
+
+
+        return [
+            leave
+            for leave in data["leaves"]
+            if leave["status"] == "Pending"
+        ]
 
 
 
     def get_policy(self):
 
-        # Future CheckinPro policy endpoint
-        # Example:
-        # /company/leave-policy
+        data = self.leave_service.get_leave_data()
 
-        return {
+        if not data:
+            return {}
 
-            "max_consecutive_days": 30,
 
-            "minimum_notice_days": 3
+        policies = {}
 
-        }
+
+        for leave_type in data["leave_types"]:
+
+            policies[
+                leave_type["title"]
+            ] = leave_type["days"]
+
+
+        return policies

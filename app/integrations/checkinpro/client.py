@@ -3,7 +3,6 @@ import requests
 from app.config.settings import settings
 
 
-
 class CheckinProClient:
 
 
@@ -11,7 +10,46 @@ class CheckinProClient:
 
         self.base_url = settings.CHECKINPRO_URL
 
-        self.api_key = settings.CHECKINPRO_API_KEY
+        self.username = settings.CHECKINPRO_USERNAME
+
+        self.password = settings.CHECKINPRO_PASSWORD
+
+        self.company_email = settings.CHECKINPRO_COMPANY_EMAIL
+
+
+
+    def post(
+        self,
+        endpoint,
+        payload
+    ):
+
+        headers = {
+
+            "Accept": "application/json",
+
+            "Content-Type": "application/json"
+
+        }
+
+
+        response = requests.post(
+
+            self.base_url + endpoint,
+
+            json=payload,
+
+            headers=headers,
+
+            timeout=30
+
+        )
+
+
+        response.raise_for_status()
+
+
+        return response.json()
 
 
 
@@ -22,11 +60,7 @@ class CheckinProClient:
 
         headers = {
 
-            "Authorization":
-                f"Bearer {self.api_key}",
-
-            "Accept":
-                "application/json"
+            "Accept": "application/json"
 
         }
 
@@ -35,7 +69,9 @@ class CheckinProClient:
 
             self.base_url + endpoint,
 
-            headers=headers
+            headers=headers,
+
+            timeout=30
 
         )
 
