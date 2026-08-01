@@ -25,16 +25,12 @@ class CheckinProProvider(LeaveDataProvider):
 
 
         return response.get(
-            "data",
-            {}
+            "data"
         )
 
 
 
-    def get_employee(
-        self,
-        employee_id=None
-    ):
+    def get_employee(self):
 
         data = self._get_data()
 
@@ -45,7 +41,7 @@ class CheckinProProvider(LeaveDataProvider):
 
 
 
-        employee = {
+        return {
 
             "employee_id": data.get(
                 "employee_id"
@@ -59,14 +55,7 @@ class CheckinProProvider(LeaveDataProvider):
 
 
 
-        return employee
-
-
-
-    def get_leave_history(
-        self,
-        employee_id=None
-    ):
+    def get_leave_history(self):
 
         data = self._get_data()
 
@@ -74,7 +63,6 @@ class CheckinProProvider(LeaveDataProvider):
         if not data:
 
             return []
-
 
 
         return data.get(
@@ -84,33 +72,7 @@ class CheckinProProvider(LeaveDataProvider):
 
 
 
-    def get_leave_requests(
-        self,
-        employee_id=None
-    ):
-
-        leaves = self.get_leave_history(
-            employee_id
-        )
-
-
-        return [
-
-            leave
-
-            for leave in leaves
-
-            if leave.get(
-                "status"
-            ) == "Pending"
-
-        ]
-
-
-
-    def get_leave_types(
-        self
-    ):
+    def get_leave_types(self):
 
         data = self._get_data()
 
@@ -120,7 +82,6 @@ class CheckinProProvider(LeaveDataProvider):
             return []
 
 
-
         return data.get(
             "leave_types",
             []
@@ -128,15 +89,29 @@ class CheckinProProvider(LeaveDataProvider):
 
 
 
-    def get_policy(
-        self
-    ):
+    def get_leave_requests(self):
+
+        leaves = self.get_leave_history()
+
+
+        return [
+
+            leave
+
+            for leave in leaves
+
+            if leave.get("status") == "Pending"
+
+        ]
+
+
+
+    def get_policy(self):
 
         leave_types = self.get_leave_types()
 
 
         policies = {}
-
 
 
         for leave_type in leave_types:
@@ -146,88 +121,16 @@ class CheckinProProvider(LeaveDataProvider):
             ] = leave_type["days"]
 
 
-
         return policies
 
 
 
-    def get_leave_balance(
-        self
-    ):
-
-        employee = self.get_employee()
-
-
-        policies = self.get_policy()
-
-
-        history = self.get_leave_history()
-
-
-
-        used_leave = {}
-
-
-
-        for leave in history:
-
-            if leave.get("status") in [
-                "Approved",
-                "Approve"
-            ]:
-
-                leave_type_id = leave.get(
-                    "leave_type_id"
-                )
-
-
-                days = int(
-                    leave.get(
-                        "total_leave_days",
-                        0
-                    )
-                )
-
-
-                used_leave[leave_type_id] = (
-
-                    used_leave.get(
-                        leave_type_id,
-                        0
-                    )
-
-                    +
-
-                    days
-
-                )
-
-
-
-        return {
-
-            "employee": employee,
-
-            "policies": policies,
-
-            "used_leave": used_leave
-
-        }
-
-
-
-    def get_attendance(
-        self,
-        employee_id=None
-    ):
+    def get_attendance(self):
 
         return None
 
 
 
-    def get_department(
-        self,
-        department=None
-    ):
+    def get_department(self):
 
         return None
