@@ -6,15 +6,35 @@ class DecisionAgent:
         context
     ):
 
-        observations = context["observations"]
+        observations = context.get(
+            "observations",
+            []
+        )
 
-        risk = context["risk"]
+
+        risk = context.get(
+            "risk",
+            {}
+        )
+
+
+        risk_level = risk.get(
+            "risk_level",
+            "LOW"
+        )
+
+
+        risk_score = risk.get(
+            "risk_score",
+            0
+        )
 
 
         confidence = 0.85
 
 
-        if risk["risk_level"] == "HIGH":
+
+        if risk_level == "HIGH":
 
             decision = "REJECT"
 
@@ -22,7 +42,7 @@ class DecisionAgent:
 
 
 
-        elif risk["risk_level"] == "MEDIUM":
+        elif risk_level == "MEDIUM":
 
             decision = "REVIEW"
 
@@ -30,7 +50,7 @@ class DecisionAgent:
 
 
 
-        elif len(risk["risks"]) > 0:
+        elif risk_score >= 20:
 
             decision = "REVIEW"
 
@@ -46,23 +66,37 @@ class DecisionAgent:
 
 
 
+
         return {
+
 
             "decision": decision,
 
+
             "confidence": confidence,
 
-            "risk_level": risk["risk_level"],
 
-            "risk_score": risk["risk_score"],
+            "risk_level": risk_level,
+
+
+            "risk_score": risk_score,
+
 
             "reason": observations,
 
-            "risk_factors": risk["risks"],
+
+            "risk_factors": risk.get(
+                "risks",
+                []
+            ),
+
 
             "explanation": (
+
                 f"Decision made based on "
-                f"{risk['risk_level']} risk assessment."
+
+                f"{risk_level} risk assessment."
+
             )
 
         }

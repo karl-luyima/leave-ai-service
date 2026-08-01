@@ -1,4 +1,4 @@
-from app.providers.database_provider import DatabaseLeaveProvider
+from app.providers.checkinpro_provider import CheckinProProvider
 from app.notifications.notification_service import NotificationService
 
 
@@ -6,134 +6,183 @@ from app.notifications.notification_service import NotificationService
 class LeaveReminderAgent:
 
 
-    def __init__(self):
+    def __init__(
+        self,
+        provider=None
+    ):
 
-        self.provider = DatabaseLeaveProvider()
+        self.provider = provider or CheckinProProvider()
 
         self.notification = NotificationService()
 
 
 
-    def analyze_leave_usage(self):
-
-        employees = self.provider.get_all_employees()
-
-        policy = self.provider.get_policy()
-
-        reminders = []
+    def analyze_leave_usage(
+        self
+    ):
 
 
-        # Get reminder threshold from company policy
-        unused_leave_threshold = policy.get(
-            "unused_leave_threshold",
-            15
-        )
+        employee = self.provider.get_employee()
 
 
-        for employee in employees:
+
+        if not employee:
+
+            return {
+
+                "status": "FAILED",
+
+                "message": "Employee data not found."
+
+            }
 
 
-            leave_balance = employee["leave_balance"]
+
+        policies = self.provider.get_policy()
 
 
-            history = self.provider.get_leave_history(
-                employee["id"]
+
+        history = self.provider.get_leave_history()
+
+
+
+        balances = []
+
+
+
+        for leave_type, allowed_days in policies.items():
+
+
+            used_days = 0
+
+
+
+            for leave in history:
+
+
+                leave_type_id = leave.get(
+                    "leave_type_id"
+                )
+
+
+                status = leave.get(
+                    "status",
+                    ""
+                )
+
+
+
+                if status in [
+                    "Approved",
+                    "Approve"
+                ]:
+
+
+                    for policy in self.provider.get_leave_types():
+
+
+                        if (
+                            policy["id"]
+                            == leave_type_id
+
+                            and
+
+                            policy["title"]
+                            == leave_type
+                        ):
+
+
+                            used_days += int(
+                                leave.get(
+                                    "total_leave_days",
+                                    0
+                                )
+                            )
+
+
+
+            remaining_days = (
+                allowed_days - used_days
             )
 
 
-            reasons = []
 
-
-            confidence = 0
-
-
-
-            # Analyze unused leave balance
-            if leave_balance >= unused_leave_threshold:
-
-                reasons.append(
-                    f"You have {leave_balance} unused leave days"
-                )
-
-                confidence += 0.5
-
-
-
-            # Analyze leave history
-            if not history:
-
-                reasons.append(
-                    "You have not taken any recorded leave yet"
-                )
-
-                confidence += 0.3
-
-
-
-            else:
-
-                total_taken = sum(
-                    record["days_taken"]
-                    for record in history
-                )
-
-
-                if total_taken < 5:
-
-                    reasons.append(
-                        "You have taken very little leave this cycle"
-                    )
-
-                    confidence += 0.2
-
-
-
-            # Decide whether action is needed
-            if reasons:
+            if remaining_days > 0:
 
 
                 message = (
+
                     f"Hi {employee['name']}, "
-                    "our leave management system recommends "
-                    "that you plan your leave. "
-                    + ". ".join(reasons)
-                    + "."
+
+                    f"you still have "
+
+                    f"{remaining_days} "
+
+                    f"{leave_type} leave days "
+
+                    "available. "
+
+                    "Consider planning your leave "
+
+                    "before the leave cycle ends."
+
                 )
 
 
 
                 reminder = {
 
-                    "employee_id": employee["id"],
+
+                    "employee_id": employee["employee_id"],
+
 
                     "employee": employee["name"],
 
+
+                    "leave_type": leave_type,
+
+
+                    "allowed_days": allowed_days,
+
+
+                    "used_days": used_days,
+
+
+                    "remaining_days": remaining_days,
+
+
                     "action": "SEND_REMINDER",
 
-                    "confidence": round(
-                        confidence,
-                        2
-                    ),
 
-                    "message": message,
+                    "message": message
 
-                    "reasons": reasons
 
                 }
 
 
 
-                # Send notification
                 self.notification.send_notification(
+
                     employee["name"],
+
                     message
+
                 )
 
 
-                reminders.append(
+
+                balances.append(
                     reminder
                 )
 
 
 
-        return reminders
+        return {
+
+
+            "employee": employee,
+
+
+            "reminders": balances
+
+        }

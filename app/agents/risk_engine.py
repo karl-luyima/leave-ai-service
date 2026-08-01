@@ -13,12 +13,22 @@ class LeaveRiskEngine:
         risks = []
 
 
-        # Check policy limit
-        allowed_days = policies.get(
-            leave_type,
-            0
-        )
+        # Normalize leave type matching
+        allowed_days = 0
 
+        for policy_name, days in policies.items():
+
+            if (
+                leave_type.lower() == policy_name.lower()
+                or leave_type.lower() in policy_name.lower()
+                or policy_name.lower() in leave_type.lower()
+            ):
+                allowed_days = days
+                break
+
+
+
+        # Check policy limit
 
         if allowed_days == 0:
 
@@ -39,10 +49,11 @@ class LeaveRiskEngine:
 
 
 
-        # Large leave request
+        # Large leave duration
+
         if days_requested > 15:
 
-            risk_score += 30
+            risk_score += 20
 
             risks.append(
                 "Large leave duration requested"
@@ -51,14 +62,22 @@ class LeaveRiskEngine:
 
 
         # Pending requests
+
         pending_requests = [
+
             leave
+
             for leave in history
-            if leave["status"] == "Pending"
+
+            if leave.get("status","").lower() == "pending"
+
         ]
 
 
-        if len(pending_requests) > 1:
+
+        # Only consider excessive pending requests
+
+        if len(pending_requests) > 2:
 
             risk_score += 20
 
@@ -69,14 +88,23 @@ class LeaveRiskEngine:
 
 
         # Previous rejected requests
+
         rejected_requests = [
+
             leave
+
             for leave in history
-            if leave["status"] == "Reject"
+
+            if leave.get("status","").lower() in [
+                "reject",
+                "rejected"
+            ]
+
         ]
 
 
-        if len(rejected_requests) > 0:
+
+        if rejected_requests:
 
             risk_score += 10
 
@@ -86,7 +114,15 @@ class LeaveRiskEngine:
 
 
 
-        # Risk level
+        # Remove duplicate risks
+
+        risks = list(
+            dict.fromkeys(risks)
+        )
+
+
+
+        # Risk classification
 
         if risk_score >= 60:
 

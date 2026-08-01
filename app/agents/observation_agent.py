@@ -12,41 +12,60 @@ class ObservationAgent:
 
     def observe(
         self,
-        leave_request=None
+        leave_request
     ):
+
 
         employee = self.provider.get_employee()
 
-        leaves = self.provider.get_leave_history()
+
+
+        history = self.provider.get_leave_history()
+
+
 
         policies = self.provider.get_policy()
 
 
-        if not employee:
 
-            return {
-                "error": "Employee not found"
-            }
+        pending_requests = [
 
-
-
-        pending = [
             leave
-            for leave in leaves
-            if leave["status"] == "Pending"
+
+            for leave in history
+
+            if leave.get(
+                "status"
+            ) == "Pending"
+
         ]
 
 
 
         approved_days = sum(
-            int(leave["total_leave_days"])
-            for leave in leaves
-            if leave["status"] == "Approved"
+
+            int(
+                leave.get(
+                    "total_leave_days",
+                    0
+                )
+            )
+
+            for leave in history
+
+            if leave.get(
+                "status"
+            ) in [
+                "Approved",
+                "Approve"
+            ]
+
         )
 
 
 
         return {
+
 
             "employee": employee,
 
@@ -56,16 +75,23 @@ class ObservationAgent:
 
             "leave_summary": {
 
-                "total_requests": len(leaves),
 
-                "pending_requests": len(pending),
+                "total_requests": len(
+                    history
+                ),
+
+
+                "pending_requests": len(
+                    pending_requests
+                ),
+
 
                 "approved_days": approved_days
 
             },
 
 
-            "leave_history": leaves,
+            "leave_history": history,
 
 
             "policies": policies
